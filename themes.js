@@ -1,5 +1,5 @@
 exports.COLOR_THEMES = {
-  mix: {
+  default: {
     colors: {
       primary: "#7D7AFF",
       "gradient-1": "#7d7aff",
