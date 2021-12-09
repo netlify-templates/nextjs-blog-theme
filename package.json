@@ -1,0 +1,32 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "dev:watch": "next-remote-watch ./posts",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "@octokit/auth-oauth-app": "^4.3.0",
+    "@octokit/auth-oauth-user": "^1.3.0",
+    "@octokit/auth-token": "^2.5.0",
+    "@octokit/core": "^3.5.1",
+    "@octokit/plugin-rest-endpoint-methods": "^5.13.0",
+    "@tailwindcss/typography": "^0.4.1",
+    "classnames": "^2.3.1",
+    "github-oauth-popup": "^1.2.0",
+    "gray-matter": "^4.0.2",
+    "next": "latest",
+    "next-mdx-remote": "^3.0.1",
+    "next-remote-watch": "1.0.0",
+    "octokit": "^1.7.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19"
+  }
+}

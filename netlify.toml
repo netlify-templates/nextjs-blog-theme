@@ -1,0 +1,10 @@
+[build]
+publish = "out"
+
+[[plugins]]
+package = "@netlify/plugin-nextjs"
+
+[template.environment]
+  BLOG_NAME = "set the name of the blog here"
+  BLOG_TITLE = "set the blog title here"
+  BLOG_FOOTER_TEXT = "set the blog footer text here"
