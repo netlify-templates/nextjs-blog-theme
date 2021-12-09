@@ -14,6 +14,7 @@ import CustomLink from "../../components/CustomLink";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
 import Layout, { GradientBackground } from "../../components/Layout";
+import SEO from "../../components/SEO";
 
 // Custom components/renderers to pass to MDX.
 // Since the MDX files aren't loaded by webpack, they have no knowledge of how
@@ -36,6 +37,10 @@ export default function PostPage({
 }) {
   return (
     <Layout>
+      <SEO
+        title={`${frontMatter.title} - ${globalData.name}`}
+        description={frontMatter.description}
+      />
       <Header name={globalData.name} />
       <article className="px-6 md:px-0">
         <header>
