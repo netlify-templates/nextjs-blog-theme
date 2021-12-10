@@ -13,7 +13,7 @@
     "@octokit/auth-token": "^2.5.0",
     "@octokit/core": "^3.5.1",
     "@octokit/plugin-rest-endpoint-methods": "^5.13.0",
-    "@tailwindcss/typography": "^0.4.1",
+    "@tailwindcss/typography": "^0.5.0",
     "classnames": "^2.3.1",
     "github-oauth-popup": "^1.2.0",
     "gray-matter": "^4.0.2",
@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.0",
-    "postcss": "^8.3.11",
-    "tailwindcss": "^2.2.19"
+    "postcss": "^8.4.4",
+    "tailwindcss": "^3.0.0"
   }
 }
