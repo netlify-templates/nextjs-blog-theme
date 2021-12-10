@@ -16,9 +16,10 @@ export function Step1({ onClickNext, step }) {
     <WizardContent step={step}>
       <WizardTitle>Create new blog</WizardTitle>
       <p className="mb-8 text-xl text-gray-800 dark:text-white">
-        Something has always existed. According to physics, there can never be
-        true physical nothingness—though there can be times when existence
-        resembles nothing.
+        Use this simple wizard to create a new blog.
+        <br /> Based on <strong>Next.js</strong>, <strong>Tailwind 3.0</strong>{" "}
+        and <strong>MDX</strong>. <br />
+        Deploy it straight to <strong>Netlify</strong>.
       </p>
       <WizardButton
         as="a"
