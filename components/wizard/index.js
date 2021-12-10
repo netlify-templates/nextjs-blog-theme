@@ -3,6 +3,7 @@ import { useRouter } from "next/router";
 import { GradientBackground } from "../Layout";
 
 import { Step1, Step2, Step3, Step4, Step5 } from "./Steps";
+import SEO from "../SEO";
 
 export const WizardContext = React.createContext({});
 
@@ -56,6 +57,10 @@ export default function Wizard(props) {
 
   return (
     <>
+      <SEO
+        title="Create new blog"
+        description="Use this simple wizard to create a new blog. Based on Next.js, Tailwind 3.0 and MDX. Deploy straight to Netlify."
+      />
       <div className="w-full h-full min-h-screen flex flex-col items-center justify-center">
         <Step
           onClickNext={onClickNext}
