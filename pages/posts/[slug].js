@@ -88,11 +88,11 @@ export default function PostPage({
       <Footer copyrightText={globalData.footerText} />
       <GradientBackground
         variant="large"
-        className="absolute left-0 -top-32 opacity-30 dark:opacity-50"
+        className="absolute -top-32 opacity-30 dark:opacity-50"
       />
       <GradientBackground
         variant="small"
-        className="absolute left-0 bottom-0 opacity-20 dark:opacity-10"
+        className="absolute bottom-0 opacity-20 dark:opacity-10"
       />
     </Layout>
   );

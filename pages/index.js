@@ -49,11 +49,11 @@ export default function Index({ posts, globalData }) {
       <Footer copyrightText={globalData.footerText} />
       <GradientBackground
         variant="large"
-        className="fixed left-0 top-20 opacity-40 dark:opacity-60"
+        className="fixed top-20 opacity-40 dark:opacity-60"
       />
       <GradientBackground
         variant="small"
-        className="absolute left-0 bottom-0 opacity-20 dark:opacity-10"
+        className="absolute bottom-0 opacity-20 dark:opacity-10"
       />
     </Layout>
   );
