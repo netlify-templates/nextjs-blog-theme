@@ -64,10 +64,13 @@ export const WizardButton = ({
   as: Component = "button",
   children,
   icon,
+  className,
   ...rest
 }) => {
   const classes = classNames({
-    "bg-primary text-white py-4 px-6 rounded-xl hover:bg-opacity-80 transition max-w-[17rem] mx-auto flex items-center w-full justify-around": true,
+    "text-white py-4 px-6 rounded-xl hover:bg-opacity-80 transition max-w-[17rem] mx-auto flex items-center w-full justify-around": true,
+    "bg-primary": !className?.includes("bg-"),
+    [className]: !!className,
   });
 
   return (

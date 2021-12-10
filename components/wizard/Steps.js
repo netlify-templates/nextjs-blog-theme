@@ -130,11 +130,23 @@ export function Step4({ onClickNext, step, data, setData }) {
   );
 }
 
-export function Step5({ posts, data, setData, handleInput }) {
+export function Step5({
+  posts,
+  data,
+  setData,
+  page,
+  handleInput,
+  onClickNext,
+}) {
   return (
     <div>
-      <IndexPage globalData={data} posts={posts} />
-      <RecapBar data={data} setData={setData} handleInput={handleInput} />
+      {page}
+      <RecapBar
+        data={data}
+        setData={setData}
+        handleInput={handleInput}
+        onClickNext={onClickNext}
+      />
     </div>
   );
 }

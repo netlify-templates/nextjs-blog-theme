@@ -1,7 +1,7 @@
-import classNames from "classnames";
 import { useState } from "react";
-import { COLOR_THEMES, FONT_THEMES } from "../../themes";
+import classNames from "classnames";
 import { NetlifyLogo, WizardButton, WizardLabel } from "./elements";
+import { COLOR_THEMES, FONT_THEMES } from "../../themes";
 
 function ThemeIcon({ onClick, style }) {
   return (
@@ -108,7 +108,7 @@ export function FontSwitcher({ cssVariable, setData, data }) {
   return (
     <div className="relative w-full">
       <select
-        className="appearance-none w-full text-gray-900 p-4 pr-8 rounded-xl border border-gray-200 shadow-md dark:text-white dark:bg-gray-700 dark:border-gray-500"
+        className="appearance-none cursor-pointer w-full text-gray-900 p-4 pr-8 rounded-xl border border-gray-200 shadow-md dark:text-white dark:bg-gray-700 dark:border-gray-500"
         onChange={handleFontChange}
         value={data[cssVariable]}
       >
@@ -120,25 +120,25 @@ export function FontSwitcher({ cssVariable, setData, data }) {
     </div>
   );
 }
-export default function RecapBar({ data, setData, handleInput }) {
+export default function RecapBar({ data, setData, onClickNext }) {
   const [menuIsOpen, setMenuIsOpen] = useState(false);
   const deployUrl = `https://app.netlify.com/start/deploy?repository=https://github.com/bejamas/nextjs-blog-theme#BLOG_NAME=${data.name}&BLOG_TITLE=${data.blogTitle}&FOOTER_TEXT=${data.footerText}&BLOG_THEME=${data.theme}&BLOG_FONT_HEADINGS=${data["--font-primary"]}&BLOG_FONT_PARAGRAPHS=${data["--font-secondary"]}`;
 
   return (
-    <div className="font-sans fixed bottom-4 z-index-10 w-full max-w-screen-xl left-2/4 transform -translate-x-2/4 ">
-      <div className="flex bg-white dark:bg-black dark:bg-opacity-30 backdrop-blur-lg bg-opacity-30 px-6 py-4 rounded-xl border border-gray-200 dark:border-white dark:border-opacity-10 shadow-xl">
+    <div className="font-sans fixed bottom-4 z-index-10 w-full max-w-[56rem] left-2/4 transform -translate-x-2/4 ">
+      <div className="flex justify-around bg-white dark:bg-black dark:bg-opacity-30 backdrop-blur-lg bg-opacity-30 px-6 py-4 rounded-xl border border-gray-200 dark:border-white dark:border-opacity-10 shadow-xl">
         <div className="mr-6">
           <p className="uppercase mb-2 text-gray-700 font-bold dark:text-white dark:opacity-60">
-            Name
+            Content
           </p>
-          <input
-            type="text"
-            placeholder="Name"
-            name="name"
-            value={data.name}
-            className="rounded-xl text-gray-700 dark:text-white dark:bg-gray-700 dark:border-gray-500 border border-gray-300 p-4 shadow-md"
-            onChange={handleInput}
-          />
+          <WizardButton
+            as="a"
+            onClick={(e) => onClickNext(e, 1)}
+            href="/?step=1"
+            className="border border-gray-200 shadow-md bg-white text-gray-800 dark:text-white dark:bg-gray-700 dark:border-gray-500"
+          >
+            Edit Content
+          </WizardButton>
         </div>
         <div className="mr-6 flex flex-col">
           <p className="uppercase mb-2 text-gray-700 font-bold dark:text-white dark:opacity-60">
