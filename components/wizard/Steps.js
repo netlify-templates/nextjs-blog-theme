@@ -19,7 +19,7 @@ export function Step1({ onClickNext, step }) {
         Use this simple wizard to create a new blog.
         <br /> Based on <strong>Next.js</strong>, <strong>Tailwind 3.0</strong>{" "}
         and <strong>MDX</strong>. <br />
-        Deploy it straight to <strong>Netlify</strong>.
+        Deploy straight to <strong>Netlify</strong>.
       </p>
       <WizardButton
         as="a"
