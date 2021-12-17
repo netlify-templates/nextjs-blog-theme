@@ -126,8 +126,8 @@ export default function RecapBar({ data, setData, onClickNext }) {
 
   return (
     <div className="font-sans fixed bottom-4 z-index-10 w-full max-w-[56rem] left-2/4 transform -translate-x-2/4 ">
-      <div className="flex justify-around bg-white dark:bg-black dark:bg-opacity-30 backdrop-blur-lg bg-opacity-30 px-6 py-4 rounded-xl border border-gray-200 dark:border-white dark:border-opacity-10 shadow-xl">
-        <div className="mr-6">
+      <div className="flex flex-wrap lg:justify-around bg-white dark:bg-black dark:bg-opacity-30 backdrop-blur-lg bg-opacity-30 px-6 pt-4 rounded-xl border border-gray-200 dark:border-white dark:border-opacity-10 shadow-xl">
+        <div className="mr-6 mb-4">
           <p className="uppercase mb-2 text-gray-700 font-bold dark:text-white dark:opacity-60">
             Content
           </p>
@@ -140,7 +140,7 @@ export default function RecapBar({ data, setData, onClickNext }) {
             Edit Content
           </WizardButton>
         </div>
-        <div className="mr-6 flex flex-col">
+        <div className="mr-6 flex flex-col mb-4">
           <p className="uppercase mb-2 text-gray-700 font-bold dark:text-white dark:opacity-60">
             Theme
           </p>
@@ -151,7 +151,7 @@ export default function RecapBar({ data, setData, onClickNext }) {
             withBackground
           />
         </div>
-        <div className="mr-6">
+        <div className="mr-6 mb-4">
           <WizardLabel>Headings</WizardLabel>
           <FontSwitcher
             cssVariable="--font-primary"
@@ -159,7 +159,7 @@ export default function RecapBar({ data, setData, onClickNext }) {
             setData={setData}
           />
         </div>
-        <div className="mr-6">
+        <div className="mr-6 mb-4">
           <WizardLabel>Paragraphs</WizardLabel>
           <FontSwitcher
             cssVariable="--font-secondary"
@@ -167,7 +167,7 @@ export default function RecapBar({ data, setData, onClickNext }) {
             setData={setData}
           />
         </div>
-        <div className="mt-auto">
+        <div className="mt-auto mb-4">
           <WizardButton
             as="a"
             href={deployUrl}

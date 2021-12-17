@@ -12,7 +12,7 @@ export const NetlifyLogo = ({ className }) => (
 );
 
 export const WizardTitle = ({ children }) => (
-  <h2 className="mb-8 text-5xl">{children}</h2>
+  <h2 className="mb-8 text-3xl lg:text-5xl">{children}</h2>
 );
 
 export const WizardProgressBar = ({ value }) => {
@@ -32,7 +32,7 @@ export const WizardContent = ({ children, step }) => (
     <div className="flex justify-center mt-20 w-12 mx-auto">
       <NetlifyLogo className="text-black dark:text-white" />
     </div>
-    <div className="py-12 pt-12 pb-20 max-w-2xl mx-auto">{children}</div>
+    <div className="py-12 px-4 pt-12 pb-20 max-w-2xl mx-auto">{children}</div>
   </div>
 );
 
