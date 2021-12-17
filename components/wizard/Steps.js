@@ -23,7 +23,7 @@ export function Step1({ onClickNext, step }) {
       </p>
       <WizardButton
         as="a"
-        href={`/wizard?step=${step + 1}`}
+        href={`/?step=${step + 1}`}
         onClick={onClickNext}
         icon={<ArrowIcon color="text-white" />}
       >
@@ -121,7 +121,7 @@ export function Step4({ onClickNext, step, data, setData }) {
       </div>
       <WizardButton
         as="a"
-        href={`/wizard?step=${step + 1}`}
+        href={`/?step=${step + 1}`}
         onClick={onClickNext}
         icon={<ArrowIcon color="text-white" />}
       >
