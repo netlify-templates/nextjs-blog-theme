@@ -122,7 +122,7 @@ export function FontSwitcher({ cssVariable, setData, data }) {
 }
 export default function RecapBar({ data, setData, onClickNext }) {
   const [menuIsOpen, setMenuIsOpen] = useState(false);
-  const deployUrl = `https://app.netlify.com/start/deploy?repository=https://github.com/bejamas/nextjs-blog-theme#BLOG_NAME=${data.name}&BLOG_TITLE=${data.blogTitle}&FOOTER_TEXT=${data.footerText}&BLOG_THEME=${data.theme}&BLOG_FONT_HEADINGS=${data["--font-primary"]}&BLOG_FONT_PARAGRAPHS=${data["--font-secondary"]}`;
+  const deployUrl = `https://app.netlify.com/start/deploy?repository=https://github.com/bejamas/nextjs-blog-theme#BLOG_NAME=${data.name}&BLOG_TITLE=${data.blogTitle}&BLOG_FOOTER_TEXT=${data.footerText}&BLOG_THEME=${data.theme}&BLOG_FONT_HEADINGS=${data["--font-primary"]}&BLOG_FONT_PARAGRAPHS=${data["--font-secondary"]}`;
 
   return (
     <div className="font-sans fixed bottom-4 z-index-10 w-full max-w-[56rem] left-2/4 transform -translate-x-2/4 ">
