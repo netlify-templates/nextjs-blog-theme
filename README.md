@@ -1,12 +1,31 @@
 # Next.js Blog Theme
 
-A simple blog starter based on Next.js, Tailwind 3.0 and MDX support. Includes modern design with dark and light theme.
+A customizable blog starter using:
+- [Next.js](https://github.com/vercel/next.js) v12
+- [Tailwind](https://tailwindcss.com/) v3.0
+- Built-in [MDX](https://mdxjs.com/) v1 support
+- Includes modern design with dark & light themes
 
-[Wizard](https://nextjs-wizard.netlify.app/) - create your own blog in few clicks and deploy on Netlify.
+### Getting Started
+
+You can get started with this project in two ways: a local copy or using the [setup wizard](https://nextjs-wizard.netlify.app/).
+
+If you're doing it locally, start with clicking the [use this template](https://github.com/netlify-templates/nextjs-blog-theme/generate) and clone the repository. Then after navigating in the terminal to the project, you can run these commands:
+
+```shell
+yarn install
+yarn run dev
+```
+
+Your project should then be running on `http://localhost:3000`.
+
+---
+
+Through the [setup wizard](https://nextjs-wizard.netlify.app/), you can create your blog in a few clicks and deploy to Netlify.
 
 ## Configure the blog
 
-The config is based on ENV Variables to make it easy to integrate with any Jamstack platform like Netlify.
+The config is based on environment variables to make it easy to integrate with any Jamstack platform, like Netlify.
 
 Here are the variables you can edit:
 
