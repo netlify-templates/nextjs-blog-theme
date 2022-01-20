@@ -10,7 +10,7 @@ A customizable blog starter using:
 
 ![Preview of blog theme. Author named Jay Doe and blog's name is "Next.js Blog Theme" with one blog post](nextjs-blog-theme-preview.png)
 
-[Take a gander at the demo.](https://nextjs-blog-theme.netlify.app)
+[Take a gander at the demo.](https://bejamas-nextjs-blog.netlify.app)
 
 ### Getting Started
 
