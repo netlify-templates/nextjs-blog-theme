@@ -18,14 +18,21 @@ You can get started with this project in two ways: locally or using the [setup w
 
 #### Setting Up Locally
 
-If you're doing it locally, start with clicking the [use this template](https://github.com/netlify-templates/nextjs-blog-theme/generate) button and clone the repository. Then after navigating in the terminal to the project, you can run these commands:
+If you're doing it locally, start with clicking the [use this template](https://github.com/netlify-templates/nextjs-blog-theme/generate) button on GitHub. This will create a new repository with this template's files on your GitHub account. Once that is done, clone your new repository and navigate to it in your terminal. 
+
+From there, you can install the project's dependencies by running:
 
 ```shell
 yarn install
+```
+
+Finally, you can run your project locally with:
+
+```shell
 yarn run dev
 ```
 
-Your project should then be running on `http://localhost:3000`.
+Open your browser and visit <http://localhost:3000>, your project should be running!
 
 #### Using the Setup Wizard
 
