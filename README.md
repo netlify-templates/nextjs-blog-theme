@@ -1,4 +1,6 @@
-# Next.js Blog Theme
+# Next.js Blog Theme Designed by [Bejamas](https://bejamas.io)
+
+[![Deply to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nextjs-blog-theme)
 
 A customizable blog starter using:
 - [Next.js](https://github.com/vercel/next.js) v12
@@ -6,11 +8,17 @@ A customizable blog starter using:
 - Built-in [MDX](https://mdxjs.com/) v1 support
 - Includes modern design with dark & light themes
 
+![Preview of blog theme. Author named Jay Doe and blog's name is "Next.js Blog Theme" with one blog post](nextjs-blog-theme-preview.png)
+
+[Take a gander at the demo.](https://nextjs-blog-theme.netlify.app)
+
 ### Getting Started
 
-You can get started with this project in two ways: a local copy or using the [setup wizard](https://nextjs-wizard.netlify.app/).
+You can get started with this project in two ways: locally or using the [setup wizard](https://nextjs-wizard.netlify.app/).
 
-If you're doing it locally, start with clicking the [use this template](https://github.com/netlify-templates/nextjs-blog-theme/generate) and clone the repository. Then after navigating in the terminal to the project, you can run these commands:
+#### Setting Up Locally
+
+If you're doing it locally, start with clicking the [use this template](https://github.com/netlify-templates/nextjs-blog-theme/generate) button and clone the repository. Then after navigating in the terminal to the project, you can run these commands:
 
 ```shell
 yarn install
@@ -19,11 +27,13 @@ yarn run dev
 
 Your project should then be running on `http://localhost:3000`.
 
----
+#### Using the Setup Wizard
+
+![Preview of Setup Wizard showing the initial page of a setup form](nextjs-setup-wizard.png)
 
 Through the [setup wizard](https://nextjs-wizard.netlify.app/), you can create your blog in a few clicks and deploy to Netlify.
 
-## Configure the blog
+## Configuring the blog
 
 The config is based on environment variables to make it easy to integrate with any Jamstack platform, like Netlify.
 
