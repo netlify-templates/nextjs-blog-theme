@@ -1,12 +1,48 @@
-# Next.js Blog Theme
+# Next.js Blog Theme Designed by [Bejamas](https://bejamas.io)
 
-A simple blog starter based on Next.js, Tailwind 3.0 and MDX support. Includes modern design with dark and light theme.
+[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nextjs-blog-theme)
 
-[Wizard](https://nextjs-wizard.netlify.app/) - create your own blog in few clicks and deploy on Netlify.
+A customizable blog starter using:
+- [Next.js](https://github.com/vercel/next.js) v12
+- [Tailwind](https://tailwindcss.com/) v3.0
+- Built-in [MDX](https://mdxjs.com/) v1 support
+- Includes modern design with dark & light themes
 
-## Configure the blog
+![Preview of blog theme. Author named Jay Doe and blog's name is "Next.js Blog Theme" with one blog post](nextjs-blog-theme-preview.png)
 
-The config is based on ENV Variables to make it easy to integrate with any Jamstack platform like Netlify.
+[Take a gander at the demo.](https://bejamas-nextjs-blog.netlify.app)
+
+### Getting Started
+
+You can get started with this project in two ways: locally or using the [setup wizard](https://nextjs-wizard.netlify.app/).
+
+#### Setting Up Locally
+
+If you're doing it locally, start with clicking the [use this template](https://github.com/netlify-templates/nextjs-blog-theme/generate) button on GitHub. This will create a new repository with this template's files on your GitHub account. Once that is done, clone your new repository and navigate to it in your terminal. 
+
+From there, you can install the project's dependencies by running:
+
+```shell
+yarn install
+```
+
+Finally, you can run your project locally with:
+
+```shell
+yarn run dev
+```
+
+Open your browser and visit <http://localhost:3000>, your project should be running!
+
+#### Using the Setup Wizard
+
+![Preview of Setup Wizard showing the initial page of a setup form](nextjs-setup-wizard.png)
+
+Through the [setup wizard](https://nextjs-wizard.netlify.app/), you can create your blog in a few clicks and deploy to Netlify.
+
+## Configuring the blog
+
+The config is based on environment variables to make it easy to integrate with any Jamstack platform, like Netlify.
 
 Here are the variables you can edit:
 
