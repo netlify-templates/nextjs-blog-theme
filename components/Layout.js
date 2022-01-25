@@ -1,5 +1,5 @@
 import classNames from "classnames";
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import styles from "./Layout.module.css";
 
 export function GradientBackground({ variant, className }) {
@@ -13,8 +13,6 @@ export function GradientBackground({ variant, className }) {
 
   return <div className={classes} />;
 }
-
-export const ThemeContext = React.createContext("light");
 
 export default function Layout({ children }) {
   const setAppTheme = () => {
