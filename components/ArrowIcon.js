@@ -1,4 +1,4 @@
-export default function ArrowIcon({ className, color = "text-primary" }) {
+export default function ArrowIcon({ className, color = 'text-primary' }) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
