@@ -69,5 +69,6 @@ All posts are stored in `/posts` directory. To make a new post, create a new fil
 Since the posts are written in `MDX` format you can pass props and components. That means you can use [React components](https://reactjs.org/docs/components-and-props.html) inside your posts to make them more interactive. Learn more about how to do so in the [MDX docs on content](https://mdxjs.com/docs/using-mdx/#components).
 
 https://user-images.githubusercontent.com/3611928/152727802-102ec296-41c8-446d-93ed-922d11187073.mp4
+
 [alt: video walkthrough of adding a new blog post]
 
