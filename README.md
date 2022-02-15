@@ -3,6 +3,7 @@
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nextjs-blog-theme)
 
 A customizable blog starter using:
+
 - [Next.js](https://github.com/vercel/next.js) v12
 - [Tailwind](https://tailwindcss.com/) v3.0
 - Built-in [MDX](https://mdxjs.com/) v1 support
@@ -18,7 +19,7 @@ You can get started with this project in two ways: locally or using the [setup w
 
 #### Setting Up Locally
 
-If you're doing it locally, start with clicking the [use this template](https://github.com/netlify-templates/nextjs-blog-theme/generate) button on GitHub. This will create a new repository with this template's files on your GitHub account. Once that is done, clone your new repository and navigate to it in your terminal. 
+If you're doing it locally, start with clicking the [use this template](https://github.com/netlify-templates/nextjs-blog-theme/generate) button on GitHub. This will create a new repository with this template's files on your GitHub account. Once that is done, clone your new repository and navigate to it in your terminal.
 
 From there, you can install the project's dependencies by running:
 
@@ -63,4 +64,11 @@ All of the env variables can be configured through the [Wizard](https://nextjs-w
 
 ## Adding new posts
 
-All posts are stored in `posts` directory in `.mdx` format. That means you can use React components there to make your posts more interactive.
+All posts are stored in `/posts` directory. To make a new post, create a new file with the [`.mdx` extension](https://mdxjs.com/).
+
+Since the posts are written in `MDX` format you can pass props and components. That means you can use [React components](https://reactjs.org/docs/components-and-props.html) inside your posts to make them more interactive. Learn more about how to do so in the [MDX docs on content](https://mdxjs.com/docs/using-mdx/#components).
+
+https://user-images.githubusercontent.com/3611928/152727802-102ec296-41c8-446d-93ed-922d11187073.mp4
+
+[alt: video walkthrough of adding a new blog post]
+
