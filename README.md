@@ -1,4 +1,4 @@
-# Next.js Blog Theme Designed by [Bejamas](https://bejamas.io)
+![Netlify Next.js Blog Template designed by Bejamas](github-banner.svg)
 
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nextjs-blog-theme)
 
