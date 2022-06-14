@@ -325,9 +325,9 @@
   dependencies:
     is-promise "^4.0.0"
 
-"@netlify/ipx@^1.0.1":
+"@netlify/ipx@^1.1.0":
   version "1.1.0"
-  resolved "https://registry.npmjs.org/@netlify/ipx/-/ipx-1.1.0.tgz"
+  resolved "https://registry.yarnpkg.com/@netlify/ipx/-/ipx-1.1.0.tgz#b87ba9417a1f4e7b7249bf9feea4b47495ac8ef7"
   integrity sha512-acJOb8YGd+lMMRVEhEOhQ6d92e0k6fCmucYBOJIhMXGl7CfZgRzxj2/XzoRz9j5uohrrBBiG3u2hP8MCznRHzw==
   dependencies:
     "@netlify/functions" "^1.0.0"
@@ -341,13 +341,13 @@
     ufo "^0.7.11"
     unstorage "^0.2.8"
 
-"@netlify/plugin-nextjs@4.8":
-  version "4.8.0"
-  resolved "https://registry.npmjs.org/@netlify/plugin-nextjs/-/plugin-nextjs-4.8.0.tgz"
-  integrity sha512-cd6KMaY+A63Qz0Cx5kXGHtOcHoqZz1+qOnqHh7vHA9Ci/q9bc3bxB5YJD9ADs5KvSqACRPnwolLkK/bnxJHPFQ==
+"@netlify/plugin-nextjs@4.9":
+  version "4.9.1"
+  resolved "https://registry.yarnpkg.com/@netlify/plugin-nextjs/-/plugin-nextjs-4.9.1.tgz#af9b5100d9b866e9bee180ea0ca7690d63ab40f7"
+  integrity sha512-wV095RZH4D/2jDwKGhRfHQiUglk5/3d5MUjlEpwtYNyjT4iNf7bp+1YBbH8AbuCqC2TRdRrW3JBN/fQuVWQlGQ==
   dependencies:
     "@netlify/functions" "^1.0.0"
-    "@netlify/ipx" "^1.0.1"
+    "@netlify/ipx" "^1.1.0"
     "@vercel/node-bridge" "^2.1.0"
     chalk "^4.1.2"
     fs-extra "^10.0.0"
