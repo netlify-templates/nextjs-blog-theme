@@ -17,7 +17,7 @@ A customizable blog starter using:
 
 [Take a gander at the demo.](https://bejamas-nextjs-blog.netlify.app)
 
-[Click here to watch the template walkthrough!](https://www.youtube.com/watch?v=U2eTCO_xiHc)
+[Click here to watch the template walkthrough!](https://www.youtube.com/watch?v=63QZHs259dY)
 
 ## Getting Started
 
