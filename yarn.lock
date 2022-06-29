@@ -325,10 +325,10 @@
   dependencies:
     is-promise "^4.0.0"
 
-"@netlify/ipx@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@netlify/ipx/-/ipx-1.1.0.tgz#b87ba9417a1f4e7b7249bf9feea4b47495ac8ef7"
-  integrity sha512-acJOb8YGd+lMMRVEhEOhQ6d92e0k6fCmucYBOJIhMXGl7CfZgRzxj2/XzoRz9j5uohrrBBiG3u2hP8MCznRHzw==
+"@netlify/ipx@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@netlify/ipx/-/ipx-1.1.2.tgz#172bce510a46e8c1d6f9abb44e0ae444ed614cae"
+  integrity sha512-Gm9s9J2uN6vf+/1n52KhEkXGSS6L0OXTLRZ7CXKDXxfLKL5J3YW3Oqsjs4DJuueh4niYOG0CmFTXgnCWlaxbmA==
   dependencies:
     "@netlify/functions" "^1.0.0"
     etag "^1.8.1"
@@ -338,16 +338,16 @@
     mkdirp "^1.0.4"
     murmurhash "^2.0.0"
     node-fetch "^2.0.0"
-    ufo "^0.7.11"
+    ufo "^0.8.0"
     unstorage "^0.2.8"
 
-"@netlify/plugin-nextjs@4.9":
-  version "4.9.1"
-  resolved "https://registry.yarnpkg.com/@netlify/plugin-nextjs/-/plugin-nextjs-4.9.1.tgz#af9b5100d9b866e9bee180ea0ca7690d63ab40f7"
-  integrity sha512-wV095RZH4D/2jDwKGhRfHQiUglk5/3d5MUjlEpwtYNyjT4iNf7bp+1YBbH8AbuCqC2TRdRrW3JBN/fQuVWQlGQ==
+"@netlify/plugin-nextjs@4.10":
+  version "4.10.0"
+  resolved "https://registry.yarnpkg.com/@netlify/plugin-nextjs/-/plugin-nextjs-4.10.0.tgz#88fd0a6e2aa8a1537c349ff5d0635725568e8b9c"
+  integrity sha512-x0KgJwpXG1HDWJgdyYU86v3LriLqRmHxiZ8wKUnuAtZ+T9iUaphuxZvBbjtxHWRhZMutcvTGLcGz/rPFhYbIDQ==
   dependencies:
     "@netlify/functions" "^1.0.0"
-    "@netlify/ipx" "^1.1.0"
+    "@netlify/ipx" "^1.1.2"
     "@vercel/node-bridge" "^2.1.0"
     chalk "^4.1.2"
     fs-extra "^10.0.0"
@@ -5193,12 +5193,12 @@ typedarray-to-buffer@^3.1.5:
   dependencies:
     is-typedarray "^1.0.0"
 
-ufo@^0.7.10, ufo@^0.7.11, ufo@^0.7.9:
+ufo@^0.7.10, ufo@^0.7.9:
   version "0.7.11"
   resolved "https://registry.npmjs.org/ufo/-/ufo-0.7.11.tgz"
   integrity sha512-IT3q0lPvtkqQ8toHQN/BkOi4VIqoqheqM1FnkNWT9y0G8B3xJhwnoKBu5OHx8zHDOvveQzfKuFowJ0VSARiIDg==
 
-ufo@^0.8.4:
+ufo@^0.8.0, ufo@^0.8.4:
   version "0.8.4"
   resolved "https://registry.npmjs.org/ufo/-/ufo-0.8.4.tgz"
   integrity sha512-/+BmBDe8GvlB2nIflWasLLAInjYG0bC9HRnfEpNi4sw77J2AJNnEVnTDReVrehoh825+Q/evF3THXTAweyam2g==
