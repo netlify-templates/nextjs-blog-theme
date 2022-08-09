@@ -28,11 +28,12 @@
     "cypress": "^10.1.0",
     "gray-matter": "^4.0.2",
     "next": "latest",
-    "next-mdx-remote": "^3.0.1",
+    "next-mdx-remote": "^4.1.0",
     "next-remote-watch": "1.0.0",
     "prismjs": "^1.25.0",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "remark-gfm": "^3.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.0",
