@@ -285,10 +285,10 @@
     ufo "^0.8.0"
     unstorage "^0.2.8"
 
-"@netlify/plugin-nextjs@4.19":
-  version "4.19.0"
-  resolved "https://registry.npmjs.org/@netlify/plugin-nextjs/-/plugin-nextjs-4.19.0.tgz"
-  integrity sha512-ZS8UYIp1WC8BkY2vYVXYZfCFZe95gvT1fWHh9MqXr0Fz40F1FwO7G4pE+ppOgWrPWH1Wm9Bpdj3UDp0P9G/vAA==
+"@netlify/plugin-nextjs@4.20":
+  version "4.20.0"
+  resolved "https://registry.npmjs.org/@netlify/plugin-nextjs/-/plugin-nextjs-4.20.0.tgz"
+  integrity sha512-eOhqon2vyxV2euS0deWHsZQtXTGPKpjFn7gcLTFSPl/nHRRWmfnZvTb3veLigqWRtJEQm6s86q9DFCUftlyBnA==
   dependencies:
     "@netlify/esbuild" "0.14.25"
     "@netlify/functions" "^1.2.0"
@@ -2031,9 +2031,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.202:
-  version "1.4.230"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.230.tgz#666909fdf5765acb1348b69752ee9955dc1664b7"
-  integrity sha512-3pwjAK0qHSDN9+YAF4fJknsSruP7mpjdWzUSruIJD/JCH77pEh0SorEyb3xVaKkfwk2tzjOt2D8scJ0KAdfXLA==
+  version "1.4.232"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.232.tgz#67a0a874b0057662244230d18d3a9847c135a9d9"
+  integrity sha512-nd+FW8xHjM+PxNWG44nKnwHaBDdVpJUZuI2sS2JJPt/QpdombnmoCRWEEQNnzaktdIQhsNWdD+dlqxwO8Bn99g==
 
 emoji-regex@^7.0.1:
   version "7.0.3"
