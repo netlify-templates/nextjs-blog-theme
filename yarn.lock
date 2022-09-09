@@ -274,15 +274,15 @@
   dependencies:
     is-promise "^4.0.0"
 
-"@netlify/ipx@^1.2.4":
-  version "1.2.4"
-  resolved "https://registry.npmjs.org/@netlify/ipx/-/ipx-1.2.4.tgz"
-  integrity sha512-J1+BxWAKz8oqduJjlpa7LfNvKn+JYw/L1PmL/EgWdg+JEcu3nC0+dGajLG8Cke1adey6Dk6eYI0Bm60KvR2AHg==
+"@netlify/ipx@^1.2.5":
+  version "1.2.5"
+  resolved "https://registry.npmjs.org/@netlify/ipx/-/ipx-1.2.5.tgz"
+  integrity sha512-zBPRsLHlFkN8uYAFbbTMZr6oTnVWUdME8i+FfeOY9D5qBbbSFxSH/ZPECif0ojkhtRnutq9+cN0mnnCTaYRjQw==
   dependencies:
     "@netlify/functions" "^1.2.0"
     etag "^1.8.1"
     fs-extra "^10.0.0"
-    ipx "^0.9.4"
+    ipx "^0.9.11"
     micromatch "^4.0.5"
     mkdirp "^1.0.4"
     murmurhash "^2.0.0"
@@ -290,14 +290,14 @@
     ufo "^0.8.0"
     unstorage "^0.2.8"
 
-"@netlify/plugin-nextjs@4.22":
-  version "4.22.0"
-  resolved "https://registry.npmjs.org/@netlify/plugin-nextjs/-/plugin-nextjs-4.22.0.tgz"
-  integrity sha512-TyK4xEkUXnnB5O3LzWu/P2a6BGQ/gbowd+Km3h71cREUQb81nXR2pVlwK+/C7FWsGDgLYhMMBoMjEI3dMJNDXA==
+"@netlify/plugin-nextjs@4.23":
+  version "4.23.0"
+  resolved "https://registry.npmjs.org/@netlify/plugin-nextjs/-/plugin-nextjs-4.23.0.tgz"
+  integrity sha512-P/LUhsIbCwKu31TlD8CdPBeZ/31/Rkkd/SuVkcOGVzAbx/rbfNO7lkEji9uVnQOU8BlNED/5bMzSqpnrmyOt3Q==
   dependencies:
     "@netlify/esbuild" "0.14.25"
     "@netlify/functions" "^1.2.0"
-    "@netlify/ipx" "^1.2.4"
+    "@netlify/ipx" "^1.2.5"
     "@vercel/node-bridge" "^2.1.0"
     chalk "^4.1.2"
     execa "^5.1.1"
@@ -2038,9 +2038,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.202:
-  version "1.4.245"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.245.tgz#a065d4af1ab0ab5803d7531759556ab366b46000"
-  integrity sha512-kUN8QXmqHAN8phxjF3QpHeX7CbXGXadSngx9r1O/S9jt+uC0O/vjPi/9+8/Mk3sKewLLMrjpBJZMfVpPCdkG3g==
+  version "1.4.246"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.246.tgz#802132d1bbd3ff32ce82fcd6a6ed6ab59b4366dc"
+  integrity sha512-/wFCHUE+Hocqr/LlVGsuKLIw4P2lBWwFIDcNMDpJGzyIysQV4aycpoOitAs32FT94EHKnNqDR/CVZJFbXEufJA==
 
 emoji-regex@^7.0.1:
   version "7.0.3"
@@ -2552,7 +2552,18 @@ fast-equals@^3.0.1:
   resolved "https://registry.npmjs.org/fast-equals/-/fast-equals-3.0.3.tgz"
   integrity sha512-NCe8qxnZFARSHGztGMZOO/PC1qa5MIFB5Hp66WdzbCRAz8U8US3bx1UTgLS49efBQPcUtO9gf5oVEY8o7y/7Kg==
 
-fast-glob@^3.2.11, fast-glob@^3.2.9:
+fast-glob@^3.2.11:
+  version "3.2.12"
+  resolved "https://registry.yarnpkg.com/fast-glob/-/fast-glob-3.2.12.tgz#7f39ec99c2e6ab030337142da9e0c18f37afae80"
+  integrity sha512-DVj4CQIYYow0BlaelwK1pHl5n5cRSJfM60UA0zK891sVInoPri2Ekj7+e1CT3/3qxXenpI+nBBmQAcJPJgaj4w==
+  dependencies:
+    "@nodelib/fs.stat" "^2.0.2"
+    "@nodelib/fs.walk" "^1.2.3"
+    glob-parent "^5.1.2"
+    merge2 "^1.3.0"
+    micromatch "^4.0.4"
+
+fast-glob@^3.2.9:
   version "3.2.11"
   resolved "https://registry.npmjs.org/fast-glob/-/fast-glob-3.2.11.tgz"
   integrity sha512-xrO3+1bxSo3ZVHAnqzyuewYT6aMFHRAd4Kcs92MAonjwQZLsK9d0SF1IyQ3k5PoirxTW0Oe/RqFgMQ6TcNE5Ew==
@@ -3376,7 +3387,7 @@ ipaddr.js@1.9.1:
   resolved "https://registry.npmjs.org/ipaddr.js/-/ipaddr.js-1.9.1.tgz"
   integrity sha512-0KI/607xoxSToH7GjN1FfSbLoU0+btTicjsQSWQlh/hZykN8KpmMf7uYwPW3R+akZ6R/w18ZlXSHBYXiYUPO3g==
 
-ipx@^0.9.4:
+ipx@^0.9.11:
   version "0.9.11"
   resolved "https://registry.npmjs.org/ipx/-/ipx-0.9.11.tgz"
   integrity sha512-/wsBt7hV8rvNR6O4kwgOUAhtm0F/M/mXaolXot/Bz7fdOD+W7i9OtWuoASWv1PFwwtOunhZGaoCx8BOpSdG2VQ==
