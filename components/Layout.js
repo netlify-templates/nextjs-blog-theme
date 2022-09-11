@@ -2,6 +2,18 @@ import classNames from 'classnames';
 import { useEffect } from 'react';
 import styles from './Layout.module.css';
 
+function setMode(mode, setLocalStorage = false) {
+  if (mode === 'dark') {
+    document.documentElement.classList.add('dark');
+  } else {
+    document.documentElement.classList.remove('dark');
+  }
+
+  if (setLocalStorage) {
+    localStorage.setItem('theme', mode);
+  }
+}
+
 export function GradientBackground({ variant, className }) {
   const classes = classNames(
     {
@@ -16,15 +28,16 @@ export function GradientBackground({ variant, className }) {
 
 export default function Layout({ children }) {
   const setAppTheme = () => {
-    const darkMode = localStorage.getItem('theme') === 'dark';
-    const lightMode = localStorage.getItem('theme') === 'light';
-
-    if (darkMode) {
-      document.documentElement.classList.add('dark');
-    } else if (lightMode) {
-      document.documentElement.classList.remove('dark');
+    const localStorageTheme = localStorage.getItem('theme');
+    if (localStorageTheme) {
+      setMode(localStorageTheme);
+    } else {
+      if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        setMode('dark', true);
+      } else {
+        setMode('light', true);
+      }
     }
-    return;
   };
 
   const handleSystemThemeChange = () => {
