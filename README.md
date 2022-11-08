@@ -9,10 +9,6 @@ A customizable blog starter using:
 - Built-in [MDX](https://mdxjs.com/) v1 support
 - Includes modern design with dark & light themes
 
-> 🎉 We’re really excited about the Bejamas + Netlify collaboration and we were going to celebrate it with some swag, but we realized we could put that money into supporting OSS and our ecosystem even more! After all, who needs another t-shirt or sticker?!
->
-> [Click this link](https://oss-form.netlify.app/) to vote for your favorite Open Source project!
-
 ![Preview of blog theme. Author named Jay Doe and blog's name is "Next.js Blog Theme" with one blog post](nextjs-blog-theme-preview.png)
 
 [Take a gander at the demo.](https://bejamas-nextjs-blog.netlify.app)
