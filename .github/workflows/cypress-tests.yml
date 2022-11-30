@@ -1,10 +1,5 @@
 name: Run Cypress tests
-on:
-  pull_request:
-    types: [opened]
-  push:
-    branches:
-      - '**'
+on: [push]
 
 jobs:
   cypress:
