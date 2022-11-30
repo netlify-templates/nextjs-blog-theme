@@ -24,7 +24,7 @@ jobs:
 
       # Netlify's "wait for deploy" action      
       - name: Checkout @netlify/wait-for-deploy-action
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           repository: netlify/wait-for-deploy-action
           token: ${{ steps.get-token.outputs.token }}
