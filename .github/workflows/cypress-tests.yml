@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
 
       # This will be needed for Netlify      
       - name: Generate Github token
@@ -24,7 +24,7 @@ jobs:
 
       # Netlify's "wait for deploy" action      
       - name: Checkout @netlify/wait-for-deploy-action
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
         with:
           repository: netlify/wait-for-deploy-action
           token: ${{ steps.get-token.outputs.token }}
@@ -35,7 +35,6 @@ jobs:
         uses: ./.github/actions/wait-for-netlify-deploy
         with:
           site-name: nextjs-blog-theme
-          default-branch: 'main'
           timeout: 300
 
       - name: Deploy successful
