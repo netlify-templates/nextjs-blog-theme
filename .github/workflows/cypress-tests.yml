@@ -30,6 +30,7 @@ jobs:
         uses: ./.github/actions/wait-for-netlify-deploy
         with:
           site-name: nextjs-blog-theme
+          default-branch: main
           timeout: 300
 
       - name: Deploy successful
