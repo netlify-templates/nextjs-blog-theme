@@ -1,0 +1,25 @@
+body{
+	background-image: url("night.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	margin: auto;
+}
+
+h1{
+	color:#F7EDEF;
+	font-family: impact;
+	font-size: 50px;
+}
+
+p{
+	color:#FEF03A;
+	font-family: Times New Roman;
+	font-size: 20px;
+}
+
+p1{
+	color:#F42F61;
+	font-family: Arial Black;
+	font-size: 20px;
+}
