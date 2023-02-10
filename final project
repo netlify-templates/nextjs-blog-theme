@@ -1,0 +1,25 @@
+body{
+	background-image: url("english.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	margin: auto;
+}
+
+h1{
+	color:#F8EDEF;
+	font-family: impact;
+	font-size: 50px;
+}
+
+p{
+	color:#FEF05A;
+	font-family: Times New Roman;
+	font-size: 20px;
+}
+
+p1{
+	color:#F43F61;
+	font-family: Arial Black;
+	font-size: 20px;
+}
