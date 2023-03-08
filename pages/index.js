@@ -17,6 +17,9 @@ export default function Index({ posts, globalData }) {
         <h1 className="text-3xl lg:text-5xl text-center mb-12">
           {globalData.blogTitle}
         </h1>
+ <div>
+      <Link href="https://growthustle.com/welcome-to-demon-school-iruma-kun-season-4-release-date/">Anime</Link>
+    </div>
         <ul className="w-full">
           {posts.map((post) => (
             <li
