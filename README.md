@@ -1,6 +1,7 @@
-![Netlify Next.js Blog Template designed by Bejamas](github-banner.svg)
+![Netlify Next.js Blog Template designed by Bejamas](https://user-images.githubusercontent.com/43764894/223761208-e916ebd8-8075-48f8-af6d-74810fb875f4.png)
 
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nextjs-blog-theme)
+
 
 A customizable blog starter using:
 
