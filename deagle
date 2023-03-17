@@ -1,0 +1,306 @@
+
+<!DOCTYPE html>
+        <html lang="en" dir="ltr">
+        <head>
+            <meta charset="utf-8" />
+            <title>Personal Portfolio Template</title><link rel="icon"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="title" content="Personal Portfolio Template"/><meta name="description" content="Build beautiful personal portfolio websites with Dorik."/><meta property="og:title" content="Personal Portfolio Template"/><meta property="og:description" content="Build beautiful personal portfolio websites with Dorik."/><meta name="twitter:title" content="Personal Portfolio Template"/><meta name="twitter:description" content="Build beautiful personal portfolio websites with Dorik."/><meta name="twitter:card" content="summary_large_image"/><link rel="canonical" href="https://deagle.dorik.io/"/><script type="text/javascript"></script><link as="font" rel="preload" href="https://fonts.cmsfly.com/css?family=Playfair+Display:900,900|Lato:700,700,400&display=swap"/><link rel="stylesheet" href="https://fonts.cmsfly.com/css?family=Playfair+Display:900,900|Lato:700,700,400&display=swap"/><link rel="stylesheet" href="https://cdn.dorik.com/63ff9ef295c7c300a9cb30b9/css/index.css?v=1678624286302"/>
+            
+            
+        </head>
+        <body>
+            
+            <section class="dorik-section dorik-section-7fl1msht "><div class="dorik-section-7fl1msht-frame-corner dorik-frame-corner"></div><div class="dorik-section-7fl1msht-frame-bottom dorik-frame-bottom"></div><div class=""><div class="container dorik-row-1c311qbm-wrapper    "><div class="dorik-row-1c311qbm  flex  "><div class="col-lg-1/1 "><div class="column-inner dorik-column-nrc8kxov  1/1"><div class="dorik-navbar--wrapper dorik-nav-vadcexu9-wrapper  "><div class="dorik-navbar dorik-nav-vadcexu9 "><div class="dorik-navbar--brand"><a href=""><img src="https://cdn.dorik.com/63ff9e8f95c7c300a9cb30ab/63ff9ef295c7c300a9cb30b9/images/logo_ht7vxy24.png" alt="My logo" width="106px"/></a></div><button aria-label="Navbar Toggle" class="dorik-navbar--toggle" data-target="#dorikNavbarCollapse"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="bars" class="svg-inline--fa fa-bars fa-fw " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"></path></svg> </button><div class="dorik-navbar--collapse collapse" id="dorikNavbarCollapse"><div class="dorik-navbar--navs"><ul class="dorik-nav--btns normalize"><li><a href="mailto:mr.nikhil1807@gmail.com" class="dorik-nav--btn dorik-nav--btn-nbsapxqp contact-me "><span class="dorik-nav--btn-text">Contact me </span></a></li></ul></div></div></div></div></div></div></div></div></div><div class=""><div class="container dorik-row-1ddxe4l2-wrapper    "><div class="dorik-row-1ddxe4l2  flex  "><div class="col-lg-1/2 "><div class="column-inner dorik-column-tjamp5h3  1/2"><div class="dorik-wrapper dorik-heading-q0y8v9zc-wrapper "><h3 class="dorik-heading dorik-heading-q0y8v9zc "><span><p>Hello  Welcome to.&nbsp;</p>
+</span></h3></div><div class="dorik-wrapper dorik-heading-ax1ryn3j-wrapper "><h2 class="dorik-heading dorik-heading-ax1ryn3j "><span><p>Deagle</p>
+</span></h2></div><div class="dorik-wrapper dorik-heading-jsid0m6b-wrapper "><h3 class="dorik-heading dorik-heading-jsid0m6b "><span><p><strong>Co-founder: Nikhil Singh</strong></p>
+</span></h3></div><div class="dorik-wrapper dorik-heading-w6uk0c9o-wrapper "><h3 class="dorik-heading dorik-heading-w6uk0c9o "><span><p>-Digital Marketing<br>-Graphic Designing<br>-2D &amp; 3D Animaton</p>
+</span></h3></div><ul class="dorik-socialIcon-8qxlwnr2  dorik-socialIcon-8qxlwnr2-wrapper "><li><a href="https://www.linkedin.com/in/nikhil-singh-49a1a0268" rel="nofollow" class=""><svg width="128" height="128" viewBox="0 0 128 128" fill="#23242E" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M10 0H118C123.523 0 128 4.47715 128 10V118C128 123.523 123.523 128 118 128H10C4.47715 128 0 123.523 0 118V10C0 4.47715 4.47715 0 10 0ZM42.9643 51.1633V102H27.1875V51.1633H42.9643ZM44.1518 35.0112C44.1518 40.1119 40.0804 44.3624 34.9911 44.3624C30.0714 44.3624 26 40.1119 26 35.0112C26 30.0805 30.0714 26 34.9911 26C40.0804 26 44.1518 30.0805 44.1518 35.0112ZM102 102H101.83H86.2232V77.3468C86.2232 71.396 86.0536 63.915 77.9107 63.915C69.7679 63.915 68.5804 70.2058 68.5804 76.8367V102H52.8036V51.1633H67.9018V58.1342H68.0714C70.2768 54.2237 75.3661 49.9732 83 49.9732C98.9464 49.9732 102 60.5145 102 74.1163V102Z" />
+                </svg>
+                </a></li><li><a href="https://www.instagram.com/deagleagencies/" rel="nofollow" class=""><svg width="128" height="128" viewBox="0 0 128 128" fill="#23242E" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M10 0H118C123.523 0 128 4.47715 128 10V118C128 123.523 123.523 128 118 128H10C4.47715 128 0 123.523 0 118V10C0 4.47715 4.47715 0 10 0ZM44.5759 63.9152C44.5759 53.2277 53.2277 44.4062 64.0848 44.4062C74.7723 44.4062 83.5938 53.2277 83.5938 63.9152C83.5938 74.7723 74.7723 83.4241 64.0848 83.4241C53.2277 83.4241 44.5759 74.7723 44.5759 63.9152ZM51.3616 63.9152C51.3616 71.0402 57.1295 76.6384 64.0848 76.6384C71.0402 76.6384 76.6384 71.0402 76.6384 63.9152C76.6384 56.9598 71.0402 51.3616 64.0848 51.3616C56.9598 51.3616 51.3616 56.9598 51.3616 63.9152ZM84.2723 39.1473C86.817 39.1473 88.8527 41.183 88.8527 43.7277C88.8527 46.2723 86.817 48.308 84.2723 48.308C81.7277 48.308 79.692 46.2723 79.692 43.7277C79.692 41.183 81.7277 39.1473 84.2723 39.1473ZM95.6384 32.3616C100.049 36.7723 101.406 42.2009 101.746 48.308C102.085 54.5848 102.085 73.4152 101.746 79.692C101.406 85.7991 100.049 91.058 95.6384 95.6384C91.2277 100.049 85.7991 101.406 79.692 101.746C73.4152 102.085 54.5848 102.085 48.308 101.746C42.2009 101.406 36.942 100.049 32.3616 95.6384C27.9509 91.058 26.5938 85.7991 26.2545 79.692C25.9152 73.4152 25.9152 54.5848 26.2545 48.308C26.5938 42.2009 27.9509 36.7723 32.3616 32.3616C36.942 27.9509 42.2009 26.5938 48.308 26.2545C54.5848 25.9152 73.4152 25.9152 79.692 26.2545C85.7991 26.5938 91.2277 27.9509 95.6384 32.3616ZM86.4777 93.6027C89.7009 92.2455 92.4152 89.7009 93.6027 86.308C95.3325 82.1275 95.225 72.9247 95.1536 66.8187C95.141 65.7391 95.1295 64.7563 95.1295 63.9152C95.1295 63.105 95.1408 62.1511 95.1533 61.0976C95.2247 55.0929 95.3345 45.852 93.6027 41.5223C92.2455 38.2991 89.7009 35.5848 86.4777 34.3973C82.148 32.6654 72.9071 32.7753 66.9024 32.8466C65.8489 32.8592 64.895 32.8705 64.0848 32.8705C63.2437 32.8705 62.2609 32.859 61.1813 32.8464C55.0753 32.775 45.8724 32.6675 41.692 34.3973C38.2991 35.7545 35.7545 38.2991 34.3973 41.5223C32.6654 45.852 32.7752 55.0929 32.8466 61.0976C32.8591 62.1511 32.8705 63.105 32.8705 63.9152C32.8705 64.7563 32.859 65.7391 32.8464 66.8187C32.775 72.9247 32.6674 82.1275 34.3973 86.308C35.7545 89.7009 38.2991 92.2455 41.692 93.6027C45.8724 95.3326 55.0753 95.225 61.1813 95.1536C62.2609 95.141 63.2437 95.1295 64.0848 95.1295C64.895 95.1295 65.8489 95.1408 66.9024 95.1534C72.907 95.2247 82.148 95.3346 86.4777 93.6027Z" />
+                </svg>
+                </a></li></ul></div></div><div class="col-lg-1/2 "><div class="column-inner dorik-column-x5f23a95  1/2"><a class="dorik-wrapper dorik-image-y5d393cc-wrapper " href="https://cdn.dorik.com/63ff9e8f95c7c300a9cb30ab/63ff9ef295c7c300a9cb30b9/images/Get-your-services-here_0wr21ob0.png"><img src="https://cdn.dorik.com/63ff9e8f95c7c300a9cb30ab/63ff9ef295c7c300a9cb30b9/images/Get-your-services-here_0wr21ob0.png" alt="" loading="lazy" class="dorik-image-y5d393cc "/></a></div></div></div></div></div></section><section class="dorik-section dorik-section-w03g554k "><div class=""><div class="container dorik-row-zfuvait2-wrapper    "><div class="dorik-row-zfuvait2  flex  "><div class="col-lg-3/7 "><div class="column-inner dorik-column-3io75ygu  3/7"><div class="dorik-wrapper dorik-image-f3e91pdy-wrapper "><img src="https://cdn.dorik.com/63ff9e8f95c7c300a9cb30ab/63ff9ef295c7c300a9cb30b9/images/msg804806224-494_1s25qtqb.jpg" alt="" loading="lazy" class="dorik-image-f3e91pdy "/></div></div></div><div class="col-lg-4/7 "><div class="column-inner dorik-column-zgcg397x  4/7"><div class="dorik-line-oha9z2or-wrapper "><hr class="dorik-line-oha9z2or "/></div><div class="dorik-wrapper dorik-heading-zxi4r2gm-wrapper "><h2 class="dorik-heading dorik-heading-zxi4r2gm "><span>About Me</span></h2></div><div class="dorik-text dorik-text-743ohflf "><p>&nbsp;I'm Nikhil, co-founder of Deagle, a service rendering agency at an affordable price with high quality of work and a limited time frame.</p>
+</div><div class="dorik-text dorik-text-n5aplgok "><p>Our agency provides various services related to your business. We help in growing and boosting your business through various digital marketing tactics suchs as getting it over  internet with facebook ads , social media optimization , building a high performance website,etc.</p>
+<p><br>Other than this we provide some other services such as making graphics , animations, logos, banners, flyers,etc. because your business landing should be professional and eye catching for getting high coverage and impressions.</p>
+</div></div></div></div></div></div></section><section class="dorik-section dorik-section-ikb05uv9 "><div class=""><div class="container dorik-row-uolkyf4a-wrapper    "><div class="dorik-row-uolkyf4a  flex  "><div class="col-lg-1/1 "><div class="column-inner dorik-column-duh1xn5v  1/1"><div class="dorik-line-zjeoig7w-wrapper "><hr class="dorik-line-zjeoig7w "/></div><div class="dorik-wrapper dorik-heading-jgzmh0et-wrapper "><h2 class="dorik-heading dorik-heading-jgzmh0et "><span><p>Our Services</p>
+</span></h2></div></div></div></div></div></div><div class=""><div class="container dorik-row-5xtn3s2d-wrapper    "><div class="dorik-row-5xtn3s2d  flex  "><div class="col-lg-1/3 "><div class="column-inner dorik-column-i2rs7h9v  1/3"><div class="dorik-icon-92vucohf-wrapper  "><span class="dorik-icon dorik-icon-92vucohf  "><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="flag" class="svg-inline--fa fa-flag icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="font-size:30px"><path fill="currentColor" d="M476.3 0c-6.365 0-13.01 1.35-19.34 4.233c-45.69 20.86-79.56 27.94-107.8 27.94c-59.96 0-94.81-31.86-163.9-31.87c-34.63 0-77.87 8.003-137.2 32.05V24C48 10.75 37.25 0 24 0S0 10.75 0 24v464C0 501.3 10.75 512 24 512s24-10.75 24-24v-104c53.59-23.86 96.02-31.81 132.8-31.81c73.63 0 124.9 31.78 198.6 31.78c31.91 0 68.02-5.971 111.1-23.09C504.1 355.9 512 344.4 512 332.1V30.73C512 11.1 495.3 0 476.3 0zM464 319.8c-30.31 10.82-58.08 16.1-84.6 16.1c-30.8 0-58.31-7-87.44-14.41c-32.01-8.141-68.29-17.37-111.1-17.37c-42.35 0-85.99 9.09-132.8 27.73V84.14l18.03-7.301c47.39-19.2 86.38-28.54 119.2-28.54c28.24 .0039 49.12 6.711 73.31 14.48c25.38 8.148 54.13 17.39 90.58 17.39c35.43 0 72.24-8.496 114.9-26.61V319.8z"></path></svg></span></div><div class="dorik-wrapper dorik-heading-wxufezuq-wrapper "><h3 class="dorik-heading dorik-heading-wxufezuq "><span><p>Digital Marketing</p>
+</span></h3></div><div class="dorik-text dorik-text-prmsdcai "><p>We provide various high quality digital marketing services for the growth and smooth functioning of the business. We are here  to get and boost your business over the internet at an affordable price.</p>
+</div></div></div><div class="col-lg-1/3 "><div class="column-inner dorik-column-gz5tqcql  1/3"><div class="dorik-icon-tv2kswb2-wrapper  "><span class="dorik-icon dorik-icon-tv2kswb2  "><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="pen-to-square" class="svg-inline--fa fa-pen-to-square icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="font-size:30px"><path fill="currentColor" d="M373.1 24.97C401.2-3.147 446.8-3.147 474.9 24.97L487 37.09C515.1 65.21 515.1 110.8 487 138.9L289.8 336.2C281.1 344.8 270.4 351.1 258.6 354.5L158.6 383.1C150.2 385.5 141.2 383.1 135 376.1C128.9 370.8 126.5 361.8 128.9 353.4L157.5 253.4C160.9 241.6 167.2 230.9 175.8 222.2L373.1 24.97zM440.1 58.91C431.6 49.54 416.4 49.54 407 58.91L377.9 88L424 134.1L453.1 104.1C462.5 95.6 462.5 80.4 453.1 71.03L440.1 58.91zM203.7 266.6L186.9 325.1L245.4 308.3C249.4 307.2 252.9 305.1 255.8 302.2L390.1 168L344 121.9L209.8 256.2C206.9 259.1 204.8 262.6 203.7 266.6zM200 64C213.3 64 224 74.75 224 88C224 101.3 213.3 112 200 112H88C65.91 112 48 129.9 48 152V424C48 446.1 65.91 464 88 464H360C382.1 464 400 446.1 400 424V312C400 298.7 410.7 288 424 288C437.3 288 448 298.7 448 312V424C448 472.6 408.6 512 360 512H88C39.4 512 0 472.6 0 424V152C0 103.4 39.4 64 88 64H200z"></path></svg></span></div><div class="dorik-wrapper dorik-heading-olxkled7-wrapper "><h3 class="dorik-heading dorik-heading-olxkled7 "><span><p>Graphic Designing</p>
+</span></h3></div><div class="dorik-text dorik-text-ilfdx49a "><p>We provide various high quality graphics designing services for making your business to look professional over the internet so that people will get attracted easily and show their impressions.</p>
+</div></div></div><div class="col-lg-1/3 "><div class="column-inner dorik-column-s8wm3xkv  1/3"><div class="dorik-icon-lk8ur9xl-wrapper  "><span class="dorik-icon dorik-icon-lk8ur9xl  "><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="square-caret-right" class="svg-inline--fa fa-square-caret-right icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" style="font-size:30px"><path fill="currentColor" d="M200.3 142.4C193.3 135.9 183.1 134.2 174.4 138C165.7 141.8 160 150.5 160 159.1v192C160 361.5 165.7 370.2 174.4 374c8.719 3.812 18.91 2.094 25.91-4.375l104-96C309.2 269.1 312 262.7 312 256s-2.812-13.09-7.719-17.62L200.3 142.4zM384 32H64C28.66 32 0 60.66 0 96v320c0 35.34 28.66 64 64 64h320c35.34 0 64-28.66 64-64V96C448 60.66 419.3 32 384 32zM400 416c0 8.82-7.18 16-16 16H64c-8.82 0-16-7.18-16-16V96c0-8.82 7.18-16 16-16h320c8.82 0 16 7.18 16 16V416z"></path></svg></span></div><div class="dorik-wrapper dorik-heading-ieesfh19-wrapper "><h3 class="dorik-heading dorik-heading-ieesfh19 "><span><p>Animations&nbsp;</p>
+</span></h3></div><div class="dorik-text dorik-text-4h4mxh89 "><p>We provide 2D and 3D animation services . The animations we made are high quality and anyone can afford them at a very lower price than all other animation services providing companies or agencies.</p>
+</div></div></div></div></div></div></section><section class="dorik-section dorik-section-8g6vippr "><div class=""><div class="container dorik-row-b6jvkwp8-wrapper    "><div class="dorik-row-b6jvkwp8  flex  "><div class="col-lg-1/1 "><div class="column-inner dorik-column-hcm06r4u  1/1"><div class="dorik-line-hs5m7nmq-wrapper "><hr class="dorik-line-hs5m7nmq "/></div><div class="dorik-wrapper dorik-heading-97v18kk8-wrapper "><h2 class="dorik-heading dorik-heading-97v18kk8 "><span><p>Our Works</p>
+</span></h2></div></div></div></div></div></div><div class=""><div class="container dorik-row-57hnfu5i-wrapper    "><div class="dorik-row-57hnfu5i  flex  "><div class="col-lg-1/2 "><div class="column-inner dorik-column-5yh53lkm  1/2"><div class="dorik-wrapper dorik-image-nnoxn6jt-wrapper "><img src="https://cdn.dorik.com/63ff9e8f95c7c300a9cb30ab/63ff9ef295c7c300a9cb30b9/images/chefstemp.com-positions_lovw34bm.webp" alt="" loading="lazy" class="dorik-image-nnoxn6jt "/></div><div class="dorik-wrapper dorik-image-7h64a01w-wrapper "><img src="https://cdn.dorik.com/63ff9e8f95c7c300a9cb30ab/63ff9ef295c7c300a9cb30b9/images/LTV_pds0ptaa.png" alt="" loading="lazy" class="dorik-image-7h64a01w "/></div></div></div><div class="col-lg-1/2 "><div class="column-inner dorik-column-hochvzgx  1/2"><div class="dorik-wrapper dorik-image-oflaz73e-wrapper "><img src="https://cdn.dorik.com/63ff9e8f95c7c300a9cb30ab/63ff9ef295c7c300a9cb30b9/images/image_fixed_width-1_q2jmg3e2.png" alt="" loading="lazy" class="dorik-image-oflaz73e "/></div><div class="dorik-wrapper dorik-heading-mix8bs4y-wrapper "><h4 class="dorik-heading dorik-heading-mix8bs4y "><span><p><strong>We can not show all of our work on our portfolio because the work we do is confidential.</strong></p>
+<p><br><strong>Kindly contact us for further inquiry.</strong></p>
+</span></h4></div></div></div></div></div></div></section><section class="dorik-section dorik-section-kd1z6mqj "><div class=""><div class="container dorik-row-ufmanv3r-wrapper    "><div class="dorik-row-ufmanv3r  flex  "><div class="col-lg-1/1 "><div class="column-inner dorik-column-wtjfggs1  1/1"><div class="dorik-line-zxjdd22w-wrapper "><hr class="dorik-line-zxjdd22w "/></div><div class="dorik-wrapper dorik-heading-hom5fxb4-wrapper "><h2 class="dorik-heading dorik-heading-hom5fxb4 "><span>Skills & Tools</span></h2></div></div></div></div></div></div><div class=""><div class="container dorik-row-295hlizt-wrapper    "><div class="dorik-row-295hlizt  flex  "><div class="col-lg-1/4 col-md-1/2 "><div class="column-inner dorik-column-dqzvk5fc  1/4"><div class="dorik-icon-duokjx9n-wrapper  "><span class="dorik-icon dorik-icon-duokjx9n  "><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="circle-dot" class="svg-inline--fa fa-circle-dot icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="font-size:30px"><path fill="currentColor" d="M160 256C160 202.1 202.1 160 256 160C309 160 352 202.1 352 256C352 309 309 352 256 352C202.1 352 160 309 160 256zM512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256zM256 48C141.1 48 48 141.1 48 256C48 370.9 141.1 464 256 464C370.9 464 464 370.9 464 256C464 141.1 370.9 48 256 48z"></path></svg></span></div><div class="dorik-wrapper dorik-heading-243zgnrm-wrapper "><h5 class="dorik-heading dorik-heading-243zgnrm "><span><p>Facebook Ads<br>Google Ads<br>Linkedin Ads</p>
+</span></h5></div></div></div><div class="col-lg-1/4 col-md-1/2 "><div class="column-inner dorik-column-gzadmjsf  1/4"><div class="dorik-icon-6e6wk21x-wrapper  "><span class="dorik-icon dorik-icon-6e6wk21x  "><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="circle-dot" class="svg-inline--fa fa-circle-dot icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="font-size:30px"><path fill="currentColor" d="M160 256C160 202.1 202.1 160 256 160C309 160 352 202.1 352 256C352 309 309 352 256 352C202.1 352 160 309 160 256zM512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256zM256 48C141.1 48 48 141.1 48 256C48 370.9 141.1 464 256 464C370.9 464 464 370.9 464 256C464 141.1 370.9 48 256 48z"></path></svg></span></div><div class="dorik-wrapper dorik-heading-lawby5qr-wrapper "><h5 class="dorik-heading dorik-heading-lawby5qr "><span><p>SEO(Social media optimization)<br></p>
+</span></h5></div></div></div><div class="col-lg-1/4 col-md-1/2 "><div class="column-inner dorik-column-jhfljjkj  1/4"><div class="dorik-icon-zkp0ej6w-wrapper  "><span class="dorik-icon dorik-icon-zkp0ej6w  "><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="circle-dot" class="svg-inline--fa fa-circle-dot icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="font-size:30px"><path fill="currentColor" d="M160 256C160 202.1 202.1 160 256 160C309 160 352 202.1 352 256C352 309 309 352 256 352C202.1 352 160 309 160 256zM512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256zM256 48C141.1 48 48 141.1 48 256C48 370.9 141.1 464 256 464C370.9 464 464 370.9 464 256C464 141.1 370.9 48 256 48z"></path></svg></span></div><div class="dorik-wrapper dorik-heading-5jwm2kmd-wrapper "><h5 class="dorik-heading dorik-heading-5jwm2kmd "><span><p>Social Media Marketing</p>
+</span></h5></div></div></div><div class="col-lg-1/4 col-md-1/2 "><div class="column-inner dorik-column-j72l82q3  1/4"><div class="dorik-icon-ie053sgg-wrapper  "><span class="dorik-icon dorik-icon-ie053sgg  "><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="circle-dot" class="svg-inline--fa fa-circle-dot icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="font-size:30px"><path fill="currentColor" d="M160 256C160 202.1 202.1 160 256 160C309 160 352 202.1 352 256C352 309 309 352 256 352C202.1 352 160 309 160 256zM512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256zM256 48C141.1 48 48 141.1 48 256C48 370.9 141.1 464 256 464C370.9 464 464 370.9 464 256C464 141.1 370.9 48 256 48z"></path></svg></span></div><div class="dorik-wrapper dorik-heading-oac1dbb1-wrapper "><h5 class="dorik-heading dorik-heading-oac1dbb1 "><span><p>Logo designing<br>Banner designing<br>Flyer designing<br></p>
+</span></h5></div></div></div><div class="col-lg-1/4 col-md-1/2 "><div class="column-inner dorik-column-go0i4cc7  1/4"><div class="dorik-icon-t267o0lj-wrapper  "><span class="dorik-icon dorik-icon-t267o0lj  "><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="circle-dot" class="svg-inline--fa fa-circle-dot icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="font-size:30px"><path fill="currentColor" d="M160 256C160 202.1 202.1 160 256 160C309 160 352 202.1 352 256C352 309 309 352 256 352C202.1 352 160 309 160 256zM512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256zM256 48C141.1 48 48 141.1 48 256C48 370.9 141.1 464 256 464C370.9 464 464 370.9 464 256C464 141.1 370.9 48 256 48z"></path></svg></span></div><div class="dorik-wrapper dorik-heading-hfjzo28q-wrapper "><h5 class="dorik-heading dorik-heading-hfjzo28q "><span><p>2D Animations<br>3D  Animations</p>
+</span></h5></div></div></div><div class="col-lg-1/4 col-md-1/2 "><div class="column-inner dorik-column-uh81q8ek  1/4"><div class="dorik-icon-ynmzrx2g-wrapper  "><span class="dorik-icon dorik-icon-ynmzrx2g  "><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="circle-dot" class="svg-inline--fa fa-circle-dot icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="font-size:30px"><path fill="currentColor" d="M160 256C160 202.1 202.1 160 256 160C309 160 352 202.1 352 256C352 309 309 352 256 352C202.1 352 160 309 160 256zM512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256zM256 48C141.1 48 48 141.1 48 256C48 370.9 141.1 464 256 464C370.9 464 464 370.9 464 256C464 141.1 370.9 48 256 48z"></path></svg></span></div><div class="dorik-wrapper dorik-heading-olvuf7yn-wrapper "><h5 class="dorik-heading dorik-heading-olvuf7yn "><span><p>Sales <br>&amp;<br>Marketing</p>
+</span></h5></div></div></div><div class="col-lg-1/4 col-md-1/2 "><div class="column-inner dorik-column-ewm3f75c  1/4"><div class="dorik-icon-mm5djo1b-wrapper  "><span class="dorik-icon dorik-icon-mm5djo1b  "><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="circle-dot" class="svg-inline--fa fa-circle-dot icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="font-size:30px"><path fill="currentColor" d="M160 256C160 202.1 202.1 160 256 160C309 160 352 202.1 352 256C352 309 309 352 256 352C202.1 352 160 309 160 256zM512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256zM256 48C141.1 48 48 141.1 48 256C48 370.9 141.1 464 256 464C370.9 464 464 370.9 464 256C464 141.1 370.9 48 256 48z"></path></svg></span></div><div class="dorik-wrapper dorik-heading-eelf6k0q-wrapper "><h5 class="dorik-heading dorik-heading-eelf6k0q "><span><p>Illustrator<br>Adobe XD</p>
+</span></h5></div></div></div><div class="col-lg-1/4 col-md-1/2 "><div class="column-inner dorik-column-6gomwl3j  1/4"><div class="dorik-icon-h4i5ln2k-wrapper  "><span class="dorik-icon dorik-icon-h4i5ln2k  "><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="circle-dot" class="svg-inline--fa fa-circle-dot icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="font-size:30px"><path fill="currentColor" d="M160 256C160 202.1 202.1 160 256 160C309 160 352 202.1 352 256C352 309 309 352 256 352C202.1 352 160 309 160 256zM512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256zM256 48C141.1 48 48 141.1 48 256C48 370.9 141.1 464 256 464C370.9 464 464 370.9 464 256C464 141.1 370.9 48 256 48z"></path></svg></span></div><div class="dorik-wrapper dorik-heading-9onbfw6j-wrapper "><h5 class="dorik-heading dorik-heading-9onbfw6j "><span><p>Web development</p>
+</span></h5></div></div></div></div></div></div></section><section class="dorik-section dorik-section-a2qokqmv "><div class=""><div class="container dorik-row-hybtxc57-wrapper    "><div class="dorik-row-hybtxc57  flex  "><div class="col-lg-1/1 "><div class="column-inner dorik-column-gbriesr0  1/1"><div class="dorik-line-x11e0zrx-wrapper "><hr class="dorik-line-x11e0zrx "/></div><div class="dorik-wrapper dorik-heading-jzckpfke-wrapper "><h2 class="dorik-heading dorik-heading-jzckpfke "><span>Testimonials</span></h2></div></div></div></div></div></div><div class=""><div class="container dorik-row-dzn6souk-wrapper    "><div class="dorik-row-dzn6souk  flex  "><div class="col-lg-1/2 "><div class="column-inner dorik-column-oxv2wk2r  1/2"><div class="dorik-wrapper dorik-heading-6l96gw16-wrapper "><h5 class="dorik-heading dorik-heading-6l96gw16 "><span><p>Joanna</p>
+</span></h5></div><div class="dorik-text dorik-text-0t2tdofc "><p>Social media manager, BG</p>
+</div><div class="dorik-text dorik-text-wglzsk9e "><p>I'm Joanna, social media manager at Belfort group of comapnies. I was searching for somene who can help me in  social media optimization and marketing then I found deagle  marketing agency. They  helped me a lot in growth and boosting our business at a very low  cost than others and gave a world class service.</p>
+</div><div class="dorik-wrapper dorik-image-sifbntuk-wrapper "><img src="https://cdn.dorik.com/63ff9e8f95c7c300a9cb30ab/63ff9ef295c7c300a9cb30b9/images/avatar6087296253-1_og7xm00u.jpg" alt="" loading="lazy" class="dorik-image-sifbntuk "/></div></div></div><div class="col-lg-1/2 "><div class="column-inner dorik-column-onzvg3g0  1/2"><div class="dorik-wrapper dorik-heading-j5wf5hd3-wrapper "><h5 class="dorik-heading dorik-heading-j5wf5hd3 "><span><p>Annie</p>
+</span></h5></div><div class="dorik-text dorik-text-1k88mj5d "><p>Manager, EStoppel</p>
+</div><div class="dorik-text dorik-text-ipt4xiss "><p>Hey there I am Andrine, manager at EStoppel. We were looking for a graphic designer and a 2d animator for presenting our business in a graceful and attarctive way and then I  got a mail from deagle designing  agency that they are the one for whom I was searching for.  Really they made  perfect designs and animations for our presentation at a very low price.&nbsp;</p>
+</div><div class="dorik-wrapper dorik-image-irtcv8he-wrapper "><img src="https://cdn.dorik.com/63ff9e8f95c7c300a9cb30ab/63ff9ef295c7c300a9cb30b9/images/avatar6087296253-2_9tci7f3n.jpg" alt="" loading="lazy" class="dorik-image-irtcv8he "/></div></div></div></div></div></div></section><section class="dorik-section dorik-section-tf4nf35t "><div class=""><div class="container dorik-row-5hckjy49-wrapper    "><div class="dorik-row-5hckjy49  flex  "><div class="col-lg-1/1 "><div class="column-inner dorik-column-316dt65t  1/1"><div class="dorik-line-fpebbw06-wrapper "><hr class="dorik-line-fpebbw06 "/></div><div class="dorik-wrapper dorik-heading-tm6ilk2j-wrapper "><h2 class="dorik-heading dorik-heading-tm6ilk2j "><span><p>Pricing Table</p>
+</span></h2></div></div></div></div></div></div><div class=""><div class="container dorik-row-v6lsf3k7-wrapper    "><div class="dorik-row-v6lsf3k7  flex  "><div class="col-lg-1/3 col-md-1/1 "><div class="column-inner dorik-column-my41vx1i  1/3"><div class="dorik-wrapper dorik-heading-kamterdv-wrapper "><h3 class="dorik-heading dorik-heading-kamterdv "><span><p>Digital MARKETING&nbsp;</p>
+</span></h3></div><div class="dorik-wrapper dorik-heading-ab3hyql6-wrapper "><h3 class="dorik-heading dorik-heading-ab3hyql6 "><span><p>Starts from $500</p>
+</span></h3></div></div></div><div class="col-lg-1/3 "><div class="column-inner dorik-column-aikpb230  1/3"><div class="dorik-wrapper dorik-heading-k7lp4qbx-wrapper "><h3 class="dorik-heading dorik-heading-k7lp4qbx "><span><p>2D &amp; 3D ANIMATIONS</p>
+</span></h3></div><div class="dorik-wrapper dorik-heading-3xhojo7v-wrapper "><h3 class="dorik-heading dorik-heading-3xhojo7v "><span><p>Starts from  $500</p>
+</span></h3></div></div></div><div class="col-lg-1/3 "><div class="column-inner dorik-column-41k6ogdo  1/3"><div class="dorik-wrapper dorik-heading-d6w3sodn-wrapper "><h3 class="dorik-heading dorik-heading-d6w3sodn "><span><p>GRAPHICS  DESIGNING</p>
+</span></h3></div><div class="dorik-wrapper dorik-heading-exbreji0-wrapper "><h3 class="dorik-heading dorik-heading-exbreji0 "><span><p>Starts from  $100</p>
+</span></h3></div></div></div></div></div></div></section><section class="dorik-section dorik-section-gcmlrat5 "><div class=""><div class="container dorik-row-zi3unoyf-wrapper    "><div class="dorik-row-zi3unoyf  flex  "><div class="col-lg-1/2 "><div class="column-inner dorik-column-o5p6ogqn  1/2"><div class="dorik-wrapper dorik-heading-u02e423c-wrapper "><h2 class="dorik-heading dorik-heading-u02e423c "><span>Get in Touch</span></h2></div><div class="dorik-text dorik-text-ly8ak1kx "><p>For further inquiry and getting your services rendered.<br>Kindly  contact us on  these social media platform or mail us. we'll be connecting with you within 12hrs.</p>
+</div><ul class="dorik-socialIcon-n3spx1km  dorik-socialIcon-n3spx1km-wrapper "><li><a href="https://www.instagram.com/deagleagencies/" rel="nofollow" class=""><svg width="128" height="128" viewBox="0 0 128 128" fill="#23242E" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M10 0H118C123.523 0 128 4.47715 128 10V118C128 123.523 123.523 128 118 128H10C4.47715 128 0 123.523 0 118V10C0 4.47715 4.47715 0 10 0ZM44.5759 63.9152C44.5759 53.2277 53.2277 44.4062 64.0848 44.4062C74.7723 44.4062 83.5938 53.2277 83.5938 63.9152C83.5938 74.7723 74.7723 83.4241 64.0848 83.4241C53.2277 83.4241 44.5759 74.7723 44.5759 63.9152ZM51.3616 63.9152C51.3616 71.0402 57.1295 76.6384 64.0848 76.6384C71.0402 76.6384 76.6384 71.0402 76.6384 63.9152C76.6384 56.9598 71.0402 51.3616 64.0848 51.3616C56.9598 51.3616 51.3616 56.9598 51.3616 63.9152ZM84.2723 39.1473C86.817 39.1473 88.8527 41.183 88.8527 43.7277C88.8527 46.2723 86.817 48.308 84.2723 48.308C81.7277 48.308 79.692 46.2723 79.692 43.7277C79.692 41.183 81.7277 39.1473 84.2723 39.1473ZM95.6384 32.3616C100.049 36.7723 101.406 42.2009 101.746 48.308C102.085 54.5848 102.085 73.4152 101.746 79.692C101.406 85.7991 100.049 91.058 95.6384 95.6384C91.2277 100.049 85.7991 101.406 79.692 101.746C73.4152 102.085 54.5848 102.085 48.308 101.746C42.2009 101.406 36.942 100.049 32.3616 95.6384C27.9509 91.058 26.5938 85.7991 26.2545 79.692C25.9152 73.4152 25.9152 54.5848 26.2545 48.308C26.5938 42.2009 27.9509 36.7723 32.3616 32.3616C36.942 27.9509 42.2009 26.5938 48.308 26.2545C54.5848 25.9152 73.4152 25.9152 79.692 26.2545C85.7991 26.5938 91.2277 27.9509 95.6384 32.3616ZM86.4777 93.6027C89.7009 92.2455 92.4152 89.7009 93.6027 86.308C95.3325 82.1275 95.225 72.9247 95.1536 66.8187C95.141 65.7391 95.1295 64.7563 95.1295 63.9152C95.1295 63.105 95.1408 62.1511 95.1533 61.0976C95.2247 55.0929 95.3345 45.852 93.6027 41.5223C92.2455 38.2991 89.7009 35.5848 86.4777 34.3973C82.148 32.6654 72.9071 32.7753 66.9024 32.8466C65.8489 32.8592 64.895 32.8705 64.0848 32.8705C63.2437 32.8705 62.2609 32.859 61.1813 32.8464C55.0753 32.775 45.8724 32.6675 41.692 34.3973C38.2991 35.7545 35.7545 38.2991 34.3973 41.5223C32.6654 45.852 32.7752 55.0929 32.8466 61.0976C32.8591 62.1511 32.8705 63.105 32.8705 63.9152C32.8705 64.7563 32.859 65.7391 32.8464 66.8187C32.775 72.9247 32.6674 82.1275 34.3973 86.308C35.7545 89.7009 38.2991 92.2455 41.692 93.6027C45.8724 95.3326 55.0753 95.225 61.1813 95.1536C62.2609 95.141 63.2437 95.1295 64.0848 95.1295C64.895 95.1295 65.8489 95.1408 66.9024 95.1534C72.907 95.2247 82.148 95.3346 86.4777 93.6027Z" />
+                </svg>
+                </a></li><li><a href="https://www.linkedin.com/in/nikhil-singh-49a1a0268" rel="nofollow" class=""><svg width="128" height="128" viewBox="0 0 128 128" fill="#23242E" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M10 0H118C123.523 0 128 4.47715 128 10V118C128 123.523 123.523 128 118 128H10C4.47715 128 0 123.523 0 118V10C0 4.47715 4.47715 0 10 0ZM42.9643 51.1633V102H27.1875V51.1633H42.9643ZM44.1518 35.0112C44.1518 40.1119 40.0804 44.3624 34.9911 44.3624C30.0714 44.3624 26 40.1119 26 35.0112C26 30.0805 30.0714 26 34.9911 26C40.0804 26 44.1518 30.0805 44.1518 35.0112ZM102 102H101.83H86.2232V77.3468C86.2232 71.396 86.0536 63.915 77.9107 63.915C69.7679 63.915 68.5804 70.2058 68.5804 76.8367V102H52.8036V51.1633H67.9018V58.1342H68.0714C70.2768 54.2237 75.3661 49.9732 83 49.9732C98.9464 49.9732 102 60.5145 102 74.1163V102Z" />
+                </svg>
+                </a></li></ul><form id="97c30pgi" class="dorik-contactForm-97c30pgi "><input type="hidden" name="_t" value="bXIubmlraGlsMTgwN0BnbWFpbC5jb20="/><input type="hidden" name="_sub" value=""/><div class="fields-wrapper"><div class="form-group"><label>Email</label><input type="email" name="email" required="" class="form-control" placeholder="Enter your email"/></div><div class="form-group"><label>Subject</label><input type="text" name="subject" class="form-control" placeholder="Email Subject"/></div><div class="form-group"><label>Message</label><textarea name="message" class="form-control" rows="4" placeholder="Write your message..."></textarea></div><div class="form-group form-button"><button type="submit">Submit<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="spinner" class="svg-inline--fa fa-spinner fa-spin fa-fw spinner" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="display:none;margin-left:5px"><path fill="currentColor" d="M304 48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zm0 416c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM48 304c26.5 0 48-21.5 48-48s-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48zm464-48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM142.9 437c18.7-18.7 18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zm0-294.2c18.7-18.7 18.7-49.1 0-67.9S93.7 56.2 75 75s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zM369.1 437c18.7 18.7 49.1 18.7 67.9 0s18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9z"></path></svg></button></div></div></form></div></div><div class="col-lg-1/4 col-md-1/2 "><div class="column-inner dorik-column-n4ddf17i  1/4"><div class="dorik-icon-oy233vxq-wrapper  "><a class="dorik-icon dorik-icon-oy233vxq  " href="mailto:mr.nikhil1807@gmail.com" rel="nofollow"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="envelope" class="svg-inline--fa fa-envelope icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="font-size:78px"><path fill="currentColor" d="M0 128C0 92.65 28.65 64 64 64H448C483.3 64 512 92.65 512 128V384C512 419.3 483.3 448 448 448H64C28.65 448 0 419.3 0 384V128zM48 128V150.1L220.5 291.7C241.1 308.7 270.9 308.7 291.5 291.7L464 150.1V127.1C464 119.2 456.8 111.1 448 111.1H64C55.16 111.1 48 119.2 48 127.1L48 128zM48 212.2V384C48 392.8 55.16 400 64 400H448C456.8 400 464 392.8 464 384V212.2L322 328.8C283.6 360.3 228.4 360.3 189.1 328.8L48 212.2z"></path></svg></a></div><div class="dorik-wrapper dorik-heading-ehpwl90n-wrapper "><h6 class="dorik-heading dorik-heading-ehpwl90n "><span><p>mr.nikhil1807@gmail.com&nbsp;</p>
+</span></h6></div></div></div></div></div></div></section>
+            
+                <div class='dorik-branding'><span>Built with Dorik</span> <a href="" title="Report Abuse">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                        <path fill="none" d="M0 0h24v24H0z"/><path d="M5 16v6H3V3h9.382a1 1 0 0 1 .894.553L14 5h6a1 1 0 0 1 1 1v11a1 1 0 0 1-1 1h-6.382a1 1 0 0 1-.894-.553L12 16H5zM5 5v9h8.236l1 2H19V7h-6.236l-1-2H5z"/>
+                    </svg></a>
+                </div>
+                <script>
+                    var brandFlag = document.querySelector('.dorik-branding a');
+                    if(brandFlag) {
+                        var url = "mailto:abuse@dorik.io?subject=Abuse Report " + window.location.origin;
+                        brandFlag.addEventListener('click', () =>
+                            brandFlag.setAttribute('href', url)
+                        );
+                    }
+                </script>
+            
+            <script>window.DORIK_PROJECT_ID = "63ff9ef295c7c300a9cb30b9";</script>
+            <script>(function popupButton() {
+  const popupLinks = document.querySelectorAll(`.popup-btn`);
+  popupLinks.forEach(element => {
+    let popupId = element.getAttribute('href');
+    popupId = popupId.startsWith('#') ? popupId.substring(1) : popupId;
+    element.addEventListener('click', () => {
+      if (!popupId) return;
+      let popupRow = document.getElementById(popupId);
+      let closeBtn = document.querySelector(`.close-btn-${popupId}`);
+      let popupOverlayEl = popupRow === null || popupRow === void 0 ? void 0 : popupRow.parentElement;
+      popupOverlayEl === null || popupOverlayEl === void 0 ? void 0 : popupOverlayEl.classList.add(`row-${popupId}-overlay`);
+      popupRow === null || popupRow === void 0 ? void 0 : popupRow.classList.add(`modal-${popupId}-visible`);
+      closeBtn === null || closeBtn === void 0 ? void 0 : closeBtn.classList.add('btn-visible');
+    });
+  });
+})()</script>
+            <script>(function renderPopupModal({
+  exitIntentPopup = {},
+  onloadPopup = {},
+  EXIT_INTENT,
+  ONLOAD
+}) {
+  const modalVisibility = popupId => {
+    let popupRow = document.getElementById(popupId);
+    let closeBtn = document.querySelector(`.close-btn-${popupId}`);
+    let popupOverlayEl = popupRow === null || popupRow === void 0 ? void 0 : popupRow.parentElement;
+    popupOverlayEl === null || popupOverlayEl === void 0 ? void 0 : popupOverlayEl.classList.add(`row-${popupId}-overlay`);
+    popupRow === null || popupRow === void 0 ? void 0 : popupRow.classList.add(`modal-${popupId}-visible`);
+    closeBtn === null || closeBtn === void 0 ? void 0 : closeBtn.classList.add('btn-visible');
+  };
+
+  document.addEventListener('mouseleave', () => {
+    let interativeModal = localStorage.getItem(`${EXIT_INTENT}-${exitIntentPopup.id}-${exitIntentPopup.suffixId}`);
+
+    if (exitIntentPopup.id && !interativeModal) {
+      modalVisibility(exitIntentPopup.id);
+    }
+  });
+  window.addEventListener('load', () => {
+    let onloadModal = localStorage.getItem(`${ONLOAD}-${onloadPopup.id}-${onloadPopup.suffixId}`);
+
+    if (onloadPopup.id && !onloadModal) {
+      modalVisibility(onloadPopup.id);
+    }
+  });
+})({
+                EXIT_INTENT: "EXIT_INTENT",
+                ONLOAD: "ONLOAD",
+                exitIntentPopup: undefined,
+                onloadPopup: undefined
+            })</script>
+            <script src="https://cdn.dorik.com/common/jquery-3.5.1.min.js"></script><script type="text/javascript">
+            ;(function() {
+                var navbar = $(".dorik-nav-vadcexu9");
+                var navbarCollapse = $(".dorik-navbar--collapse");
+                (function ($, navbar, navbarCollapse) {
+                $(document).on("click", "a", function (e) {
+                    var a = event.target.closest("a");
+                    var hash = a.hash;
+                    var stickyNav = $(".sticky-nav");
+                    if (hash) {
+                        var baseHref = a.href.match(/(^https?:.+)#/);
+                        var baseURI = a.baseURI.match(/(^https?:.+)#?/);
+                        baseHref = baseHref && baseHref[1];
+                        baseURI = baseURI && baseURI[1];
+                        if (baseHref && baseURI && baseURI.includes(baseHref)) {
+                            e.preventDefault();
+                            const section = $(hash).offset();
+                            if (!section) return;
+                            var collapsedHeight =
+                                navbarCollapse[0]?.clientHeight || 0;
+                            var navbarHeight =
+                                navbar[0].clientHeight - collapsedHeight;
+                            var scrollTop = section.top;
+                            if (stickyNav.length) {
+                                scrollTop = scrollTop - navbarHeight;
+                            } else {
+                                scrollTop = scrollTop - collapsedHeight;
+                            }
+                            var options = {
+                                easing: "linear",
+                            };
+                            $("html, body").animate(
+                                {
+                                    scrollTop: scrollTop,
+                                },
+                                options
+                            );
+                        }
+                    }
+                });
+            })($, navbar, navbarCollapse);
+            })();
+            
+            ;(function () {
+                var navbar = document.querySelector(".dorik-nav-vadcexu9");
+                (function toggleNav(el) {
+                const toggleBtn = el.querySelector(".dorik-navbar--toggle");
+                const navlist = toggleBtn.nextElementSibling;
+                const isMobileView = window.innerWidth < 768;
+                toggleBtn &&
+                    toggleBtn.addEventListener("click", function (e) {
+                        const hasShow = navlist?.classList.contains("show");
+                        if (!hasShow) {
+                            expend(navlist);
+                        } else {
+                            collapse(navlist);
+                        }
+                    });
+                navlist.addEventListener("click", function (e) {
+                    if (
+                        e.target.closest("a") &&
+                        !e.target.closest(".is-dropdown")
+                    ) {
+                        isMobileView && collapse(navlist);
+                    } else {
+                        var linkValue = e.target.closest("a").href;
+                        if (linkValue.startsWith("#")) {
+                            e.preventDefault();
+                        }
+                        const dropdownlist =
+                            e.target.parentNode?.nextElementSibling;
+                        const hasShow =
+                            dropdownlist?.classList.contains("show");
+
+                        if (hasShow) {
+                            collapse(dropdownlist);
+                        } else {
+                            expend(dropdownlist);
+                        }
+                    }
+                });
+
+                let dropdownItems = document.querySelectorAll(
+                    ".dorik-nav--dropdown"
+                );
+                dropdownItems.forEach((item) => {
+                    item?.addEventListener("click", () => {
+                        collapse(navlist);
+                        collapse(item);
+                    });
+                });
+
+                function expend(navlist) {
+                    if (!navlist) return;
+                    navlist.classList.add("show");
+                    const height = navlist.clientHeight + "px";
+                    isMobileView && navlist.classList.add("collapsing");
+                    setTimeout(() => {
+                        navlist.style.height = height;
+                    }, 0);
+                    setTimeout(() => {
+                        navlist.style.height = null;
+                        navlist.classList.remove("collapsing");
+                    }, 350);
+                }
+                function collapse(navlist) {
+                    if (!navlist) return;
+                    navlist.style.height = navlist.clientHeight + "px";
+                    isMobileView && navlist.classList.add("collapsing");
+                    setTimeout(() => {
+                        navlist.style.height = null;
+                    }, 0);
+                    setTimeout(() => {
+                        navlist.classList.remove("show");
+                        navlist.classList.remove("collapsing");
+                    }, 350);
+                }
+            })(navbar);
+
+            })();
+;(function() {
+                var elem = $("#97c30pgi");
+                function triggerSpinner(el, status) {
+                el.find(".spinner").css(
+                    "display",
+                    status ? "inline-block" : "none"
+                );
+            }
+                ;(function injectUniqId(elem) {
+                const uniqId = Math.random().toString(36).substring(2, 8);
+                var input = document.createElement("input");
+                input.type = "hidden";
+                input.value = uniqId;
+                input.name = "_uid";
+                elem.append(input);
+            })(elem);
+                $(elem).on("submit", function (e) {
+                    e.preventDefault();
+                    var that = this;
+                    triggerSpinner(elem, true);
+                    $(that).find(".success-message").remove();
+                    $(that).find(".error-message").remove();
+
+                    $.ajax({
+                        url: "/v2/sites/action/contact",
+                        method: "POST",
+                        data: $(this).serialize(),
+                        success: function(data) {
+                            var msgClass = data.success === true ? "success-message": "error-message";
+                            var message = data.success === true ? "Thank you for your email :-)" : data.message;
+                            var $div = $("<div>", {
+                                class: msgClass,
+                                html: message
+                            });
+                            $(that).append($div);
+                            triggerSpinner(elem, false);
+                            that.reset()
+                            
+                        },
+                        error: function(error) {
+                            var $div = $("<div>", {
+                                class: "error-message",
+                                html: error.message || "Something went wrong! Check the fields"
+                            });
+                            $(that).append($div);
+                            triggerSpinner(elem, false);
+                        }
+                    });
+                });
+            })();</script>
+            
+            
+        </body>
+    </html>
