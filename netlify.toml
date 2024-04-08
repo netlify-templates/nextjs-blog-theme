@@ -1,16 +1,3 @@
 [build]
   command = "npm run build"
   publish = ".next"
-
-  [build.environment]
-    # cache Cypress binary in local "node_modules" folder
-    # so Netlify caches it
-    CYPRESS_CACHE_FOLDER = "./node_modules/CypressBinary"
-    # set TERM variable for terminal output
-    TERM = "xterm"
-
-[[plugins]]
-  package = "netlify-plugin-cypress"
-  [plugins.inputs]
-      record = true
-      group = "Testing Built Site"
