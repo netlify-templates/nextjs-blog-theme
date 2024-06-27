@@ -19,7 +19,7 @@ const sunIcon = (
     <defs>
       <clipPath id="clip0_192_823">
         <path
-          className="fill-current text-white"
+          className="text-white fill-current"
           d="M0 0H24V24H0z"
           transform="translate(.5)"
         ></path>
@@ -41,7 +41,7 @@ const moonIcon = (
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth="2"
-      className="stroke-current text-gray-400 dark:text-white"
+      className="text-gray-400 stroke-current dark:text-white"
       d="M19.5 10.79A9 9 0 119.71 1a7 7 0 009.79 9.79v0z"
     ></path>
   </svg>
@@ -49,7 +49,7 @@ const moonIcon = (
 
 const ThemeSwitcher = () => {
   return (
-    <div className="flex mt-6 bg-white justify-center dark:bg-gray-900 rounded-3xl p-1">
+    <div className="flex justify-center p-1 mt-6 bg-white dark:bg-gray-900 rounded-3xl">
       <button
         type="button"
         aria-label="Use Dark Mode"
@@ -57,7 +57,7 @@ const ThemeSwitcher = () => {
           document.documentElement.classList.add('dark');
           localStorage.setItem('theme', 'dark');
         }}
-        className="flex items-center h-full pr-2 dark:bg-primary rounded-3xl flex justify-center align-center p-2 w-24 h-10 transition"
+        className="flex items-center justify-center w-24 h-10 p-2 pr-2 transition dark:bg-primary rounded-3xl align-center"
       >
         {moonIcon}
       </button>
@@ -69,7 +69,7 @@ const ThemeSwitcher = () => {
           document.documentElement.classList.remove('dark');
           localStorage.setItem('theme', 'light');
         }}
-        className="flex items-center h-full pr-2 bg-primary dark:bg-transparent rounded-3xl flex justify-center align-center p-2 w-24 h-10 transition"
+        className="flex items-center justify-center w-24 h-10 p-2 pr-2 transition bg-primary dark:bg-transparent rounded-3xl align-center"
       >
         {sunIcon}
       </button>
@@ -79,8 +79,8 @@ const ThemeSwitcher = () => {
 
 export default function Footer({ copyrightText }) {
   return (
-    <footer className="py-16 flex flex-col items-center">
-      <p className="dark:text-white uppercase mb-3 font-bold opacity-60">
+    <footer className="flex flex-col items-center py-16">
+      <p className="mb-3 font-bold uppercase dark:text-white opacity-60">
         {copyrightText}
       </p>
       <ThemeSwitcher />
