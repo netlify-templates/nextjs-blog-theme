@@ -6,9 +6,9 @@
 
 A customizable blog starter using:
 
-- [Next.js](https://github.com/vercel/next.js) v14 (Pages Router)
-- [Tailwind](https://tailwindcss.com/) v3.0
-- Built-in [MDX](https://mdxjs.com/) v1 support
+- [Next.js](https://github.com/vercel/next.js) v15 (Pages Router)
+- [Tailwind](https://tailwindcss.com/) v3.x
+- Built-in [MDX](https://mdxjs.com/) support
 - Includes modern design with dark & light themes
 
 ![Preview of blog theme. Author named Jay Doe and blog's name is "Next.js Blog Theme" with one blog post](nextjs-blog-theme-preview.png)
