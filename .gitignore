@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+# Netlify Visual Editor (formerly Stackbit)
+.sourcebit-nextjs-cache.json
+.stackbit/cache
+.cache
+
 # testing
 /coverage
 
