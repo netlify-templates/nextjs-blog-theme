@@ -8,6 +8,7 @@ A customizable blog starter using:
 
 - [Next.js](https://github.com/vercel/next.js) v15 (Pages Router)
 - [Tailwind](https://tailwindcss.com/) v3.x
+- [Netlify Visual Editor](https://docs.netlify.com/visual-editor/overview/)
 - Built-in [MDX](https://mdxjs.com/) support
 - Includes modern design with dark & light themes
 
@@ -24,6 +25,7 @@ A customizable blog starter using:
   - [Using the Wizard](#using-the-setup-wizard)
 - [Configuring the Blog](#configuring-the-blog)
 - [Adding New Posts](#adding-new-posts)
+- [Netlify Visual Editor](#netlify-visual-editor)
 - [Testing](#testing)
   - [Included Default Testing](#included-default-testing)
   - [Removing Renovate](#removing-renovate)
@@ -93,6 +95,39 @@ https://user-images.githubusercontent.com/3611928/152727802-102ec296-41c8-446d-9
 
 [alt: video walkthrough of adding a new blog post]
 
+## Netlify Visual Editor
+
+This template is configured to work with [visual editing](https://docs.netlify.com/visual-editor/overview/) and [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
+
+### Develop with Netlify Visual Editor Locally
+
+The typical development process is to begin by working locally. Clone this repository, then run `npm install` in its root directory.
+
+Run the Next.js development server:
+
+```txt
+cd nextjs-blog-theme
+npm run dev
+```
+
+Install the [Netlify Visual Editor CLI](https://www.npmjs.com/package/@stackbit/cli). Then open a new terminal window in the same project directory and run the Netlify visual editor dev server:
+
+```txt
+npm install -g @stackbit/cli
+stackbit dev
+```
+
+This outputs your own Netlify visual editor URL. Open this, register, or sign in, and you will be directed to Netlify's visual editor for your new project.
+
+![Next.js Dev + Visual Editor Dev](https://assets.stackbit.com/docs/next-dev-stackbit-dev.png)
+
+### Next Steps
+
+Here are a few suggestions on what to do next if you're new to Netlify Visual Editor:
+
+- Learn [Netlify visual editor overview](https://docs.netlify.com/visual-editor/visual-editing/)
+- Check [Netlify visual editor reference documentation](https://visual-editor-reference.netlify.com/)
+
 ## Testing
 
 ### Included Default Testing
@@ -106,3 +141,7 @@ If your team is not interested in this tooling, you can remove them with ease!
 ### Removing Renovate
 
 In order to keep our project up-to-date with dependencies we use a tool called [Renovate](https://github.com/marketplace/renovate). If you’re not interested in this tooling, delete the `renovate.json` file and commit that onto your main branch.
+
+## Support
+
+If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).
