@@ -3,7 +3,7 @@ import {
   getNextPostBySlug,
   getPostBySlug,
   getPreviousPostBySlug,
-  postFilePaths,
+  getPostFilePaths,
 } from '../../utils/mdx-utils';
 
 import { MDXRemote } from 'next-mdx-remote';
@@ -124,7 +124,7 @@ export const getStaticProps = async ({ params }) => {
 };
 
 export const getStaticPaths = async () => {
-  const paths = postFilePaths
+  const paths = getPostFilePaths()
     // Remove file extensions for page paths
     .map((path) => path.replace(/\.mdx?$/, ''))
     // Map the path into the static paths object required by Next.js
