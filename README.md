@@ -25,7 +25,7 @@ A customizable blog starter using:
   - [Using the Wizard](#using-the-setup-wizard)
 - [Configuring the Blog](#configuring-the-blog)
 - [Adding New Posts](#adding-new-posts)
-- [Netlify Visual Editor](#visual-editor)
+- [Netlify Visual Editor](#netlify-visual-editor)
 - [Testing](#testing)
   - [Included Default Testing](#included-default-testing)
   - [Removing Renovate](#removing-renovate)
