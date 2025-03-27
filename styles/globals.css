@@ -1,17 +1,29 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-@tailwind variants;
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: var(--font-primary);
+@theme static {
+  --color-primary: var(--theme-primary);
+  --color-gradient-1: var(--theme-gradient-1);
+  --color-gradient-2: var(--theme-gradient-2);
+  --color-gradient-3: var(--theme-gradient-3);
+  --color-gradient-4: var(--theme-gradient-4);
+  --font-primary: var(--theme-headings);
+  --font-secondary: var(--theme-body);
 }
 
-body {
-  font-family: var(--font-secondary);
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-primary);
+  }
+
+  body {
+    font-family: var(--font-secondary);
+  }
 }
