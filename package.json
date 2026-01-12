@@ -36,9 +36,8 @@
     "remark-gfm": "^4.0.0"
   },
   "devDependencies": {
-    "@stackbit/cms-git": "^1.0.32",
-    "@stackbit/types": "^2.0.1",
     "@tailwindcss/postcss": "^4.0.16",
+    "@types/node": "25.0.6",
     "eslint": "^9.0.0",
     "eslint-config-next": "^16.0.8",
     "eslint-config-prettier": "^10.0.0",

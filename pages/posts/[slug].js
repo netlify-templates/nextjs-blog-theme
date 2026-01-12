@@ -36,7 +36,6 @@ export default function PostPage({
   prevPost,
   nextPost,
   globalData,
-  slug,
 }) {
   return (
     <Layout>
@@ -45,25 +44,19 @@ export default function PostPage({
         description={frontMatter.description}
       />
       <Header name={globalData.name} />
-      <article className="px-6 md:px-0" data-sb-object-id={`posts/${slug}.mdx`}>
+      <article className="px-6 md:px-0">
         <header>
-          <h1
-            className="mb-12 text-3xl text-center md:text-5xl dark:text-white"
-            data-sb-field-path="title"
-          >
+          <h1 className="mb-12 text-3xl text-center md:text-5xl dark:text-white">
             {frontMatter.title}
           </h1>
           {frontMatter.description && (
-            <p className="mb-4 text-xl" data-sb-field-path="description">
+            <p className="mb-4 text-xl">
               {frontMatter.description}
             </p>
           )}
         </header>
         <main>
-          <article
-            className="prose dark:prose-invert"
-            data-sb-field-path="markdown_content"
-          >
+          <article className="prose dark:prose-invert">
             <MDXRemote {...source} components={components} />
           </article>
         </main>
@@ -122,7 +115,6 @@ export const getStaticProps = async ({ params }) => {
       globalData,
       source: mdxSource,
       frontMatter: data,
-      slug: params.slug,
       prevPost,
       nextPost,
     },
