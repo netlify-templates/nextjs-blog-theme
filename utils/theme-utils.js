@@ -1,8 +1,8 @@
 const { COLOR_THEMES, FONT_THEMES } = require('../themes');
 
-const THEME = process.env.BLOG_THEME || 'default';
-const FONT_HEADINGS = process.env.BLOG_FONT_HEADINGS || 'sans-serif';
-const FONT_BODY = process.env.BLOG_FONT_BODY || 'sans-serif';
+const THEME = process.env?.BLOG_THEME || 'default';
+const FONT_HEADINGS = process.env?.BLOG_FONT_HEADINGS || 'sans-serif';
+const FONT_BODY = process.env?.BLOG_FONT_BODY || 'sans-serif';
 
 export function generateCssVariables() {
   const cssVars = {};
